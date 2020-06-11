@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="www-roblox-com"><head><script src="index_files/analytics.js" type="text/javascript"></script><script type="text/javascript" class="__REQUESTLY__SCRIPT">(function(namespace) {
+  window[namespace] = window[namespace] || {};
+  window[namespace].responseRules = {};
+
+  let open = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function(method) {
+    this.addEventListener('readystatechange', function() {
+      if (this.readyState === 4 && window[namespace].responseRules.hasOwnProperty(this.responseURL)) {
+        const responseRule = window[namespace].responseRules[this.responseURL];
+        const {response, id} = responseRule;
+        const responseType = this.responseType;
+        let customResponse;
+
+        customResponse = response.type === 'code' ? responseRule.evaluator({
+            method,
+            url: this.responseURL,
+            requestHeaders: this.requestHeaders,
+            requestData: this.requestData,
+            responseType: this.responseType,
+            response: this.response
+          }) : response.value;
+
+        Object.defineProperty(this, 'response', {
+          get: function () {
+            if (response.type === 'static' && responseType === 'json') {
+              return JSON.parse(customResponse);
+            }
+            return customResponse;
+          }
+        });
+
+        if (responseType === '' || responseType === 'text') {
+          Object.defineProperty(this, 'responseText', {
+            get: function () {
+              return customResponse;
+            }
+          });
+        }
+
+        window.postMessage({
+          from: 'requestly',
+          type: 'response_rule_applied',
+          id
+        }, window.location.href);
+      }
+    }, false);
+    open.apply(this, arguments);
+  };
+
+  let send = XMLHttpRequest.prototype.send;
+  XMLHttpRequest.prototype.send = function(data) {
+    this.requestData = data;
+    send.apply(this, arguments);
+  };
+
+  let setRequestHeader = XMLHttpRequest.prototype.setRequestHeader;
+  XMLHttpRequest.prototype.setRequestHeader = function(header, value) {
+    this.requestHeaders = this.requestHeaders || {};
+    this.requestHeaders[header] = value;
+    setRequestHeader.apply(this, arguments);
+  }
+})('__REQUESTLY__')</script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app103.us.archive.org';v.server_ms=2529;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="index_files/playback.js" charset="utf-8"></script>
+<script type="text/javascript" src="index_files/wombat.js" charset="utf-8"></script>
+<script type="text/javascript">
+if (window._WBWombatInit) {
+  wbinfo = {}
+  wbinfo.url = "http://www.roblox.com:80/";
+  wbinfo.timestamp = "20071015042423";
+  wbinfo.request_ts = "20071015042423";
+  wbinfo.prefix = "https://web.archive.org/web/";
+  wbinfo.mod = "if_";
+  wbinfo.is_framed = false;
+  wbinfo.is_live = false;
+  wbinfo.coll = "web";
+  wbinfo.proxy_magic = "";
+  wbinfo.static_prefix = "/_static/";
+  wbinfo.enable_auto_fetch = true;
+  wbinfo.auto_fetch_worker_prefix = "https://web.archive.org/web/";
+  wbinfo.wombat_ts = "20071015042423";
+  wbinfo.wombat_sec = "1192422263";
+  wbinfo.wombat_scheme = "https";
+  wbinfo.wombat_host = "www.roblox.com:80";
+  wbinfo.ignore_prefixes = ["/__wb/",
+                            "/_static/",
+                            "/web/",
+                            "http://analytics.archive.org/",
+                            "https://analytics.archive.org/",
+                            "//analytics.archive.org/",
+                            "http://archive.org/",
+                            "https://archive.org/",
+                            "//archive.org/",
+                            "http://faq.web.archive.org/",
+                            "http://web.archive.org/",
+                            "https://web.archive.org/"
+                            ];
+  wbinfo.wombat_opts = {};
+  window._WBWombatInit(wbinfo);
+}
+__wm.init("https://web.archive.org/web");
+</script>
+<link rel="stylesheet" type="text/css" href="index_files/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="index_files/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	ROBLOX: A FREE Virtual World-Building Game with Avatar Chat, 3D Environments, and Physics
+</title><link id="ctl00_Imports" rel="stylesheet" type="text/css" href="index_files/AllCSS.css"><link id="ctl00_Favicon" rel="Shortcut Icon" type="image/ico" href="https://web.archive.org/web/20071015042423im_/http://www.roblox.com/roblox.ico"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="author" content="ROBLOX Corporation"><meta name="description" content="ROBLOX is SAFE for kids! ROBLOX is a FREE casual virtual world with fully constructible/desctructible 3D environments and immersive physics. Build, battle, chat, or just hang out."><meta name="keywords" content="game, video game, building game, construction game, online game, LEGO game, LEGO, MMO, MMORPG, virtual world, avatar chat"><meta name="robots" content="all"></head>
+	<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<div id="wm-ipp-base" style="display: block; direction: ltr;" lang="en">
+</div><div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="index_files/donate.htm" scrolling="no" style="width:100%; height:100%" frameborder="0">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(625,27,25,2,"web","http://www.roblox.com/","20071015042423",1996,"/_static/",["/_static/css/banner-styles.css?v=HyR5oymJ","/_static/css/iconochive.css?v=qtvMKcIJ"]);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+		<form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value=";;Roblox.Controls:en-US:50ac6d31-c851-47de-9fa1-5c630e1c367e:827cb342">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/euhYZRl/gxP/bzXbjM1azLzjMsbiPk2kF8WdKK982jEVN/OtjWbZjZgMoNgdP6MvXXpTmLwUeppx0VK7/+w6b//vD3U9fVBVKi19CcRQE+u4v9cwNfpyw8ZpYC6HOd8J/CzPiaf+zoNtI6L0wEqHdBr/q8GS7lEK2/t6Eoufo4CrsQIDm7zEAkeRDqxipF9+OcU4tdZS+oeoyIyUui57tWuMiCIzCtdsEjEONN4j2dVLehAZJJsTYT8h1T2iavEHqGj/vcvgDxTEAXqLlFe5dz71G/8SuZeAKJVOkhDV9u6WdiLqcKNQyicsumFUoR9DLlfDO1B0OgJev1RqbFq5kBO+mPxfi+XEkST87Ryujy25tetmUpdTAzjuJebdnowcKDEixsj8PXURxKB7Ev+MRTMrSuKD+RwePWLLospmIsz/9+Glh+vh2LJUFZxx/O7f1X2tb+IZBY1sTxf5onLFxsR8RXkFQjHarXWqZtZrvFZ7PoCTKdyBM996gIxSM0tWAdHqtT01hf+XemqXjZyQXHjEpJSB5VqSXzknfje/blHkgkunYSsoHrP/Ruh3z14quwb2ln63iy/7EqDUwSqCJ96vbXw0d10ES0m19UngOusechEOpz4KI4B2uCSojEnA3Kr2nBb+4cF28UFbmNQwDiKV+EhAZx3DZDfEFJFPlL+4FGr0WOHOEWXpULRSUpYVSIXpmKTRpUyAThUEplnlbScOGS0Jw4wZK8xCv/aAjSVrzV8I4sMAmn3m+yegLN7EnxrkgsjsAuaQDUGh4NmAdnWCQpBEhcW8LoTbrI5h0BNej0tvsdERzmoWCnzBFV/fjLScCNyT6WI+gqbT6N7x5BF9XQtJgz9fgtheW6K//F9AEtpVTPQrtVYR2JWoXjMmy1G7wJ4R5yVGQPr/JzloNJKPccMN9hyKcyVLr2HZkd0jZVOiaQMkGcrmDSGG4Ji6sEq+HCLWql3ttdOvUhEQfDtNYc21uPEPN68DGQvi5f4X27DZEpQmj4NW6CL5WcFB6u1TC8kdv96G3ZLlOWWMpaoEGgXSJfMgGZVkTytIApx0q+EPnwwYk7fpNJYZQFX/+NloVnz6YbozRGLKMr44Q/OpgdRomBfLBXhkg2uao5T/i43m386+HGZE1PuUp+m8FERvxeVVVBbYC8FjnT3n9FMCuhtk6sWc0uRv5sEIDQ/xdbUvBRHRikEXMHkvF2617mLfKiUm4tuRhViiFIOkOHQHQdt7ehv0mf/IZWNvjkggisKOfFabv7/ZC7oZZO8U8wLsV0UPz2KoOhBk2sW8TPOj0VAUjp8rlMLp41J+2AgDU12fDEfP/+1c/wL9g66jRa9/atj4tVrlHoeQ/L/IiY2ktLGcwZ5i3qdAQBvwHYuGv1JgVeNvAmM9lgydSzhVCGqpcT2BDFMKv6A15TkmK5nnCOTKQVeBRPnbEYvu4aa9S4yaWOqdIX29nI5lgcC6dEKyO9vqkUJ69INc1nNFeyOeuyvATvpkGthi6oFpHtgRrZqGHald0QkkP62LIqr">
+
+
+<script src="index_files/ScriptResource.js" type="text/javascript"></script>
+<script src="index_files/CombineScriptsHandler.js" type="text/javascript"></script>
+            
+			<div id="Container">
+			    
+                    
+<div id="AdvertisingLeaderboard">
+     <script type="text/javascript"><!--
+	    google_ad_client = "pub-2247123265392502";
+	    google_ad_width = 728;
+	    google_ad_height = 90;
+	    google_ad_format = "728x90_as";
+	    google_ad_type = "text_image";
+	    google_ad_channel = "";
+	    //-->
+    </script>
+    <script type="text/javascript" src="index_files/show_ads.js"></script><iframe name="google_ads_frame" src="index_files/ads.htm" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" width="728" height="90" frameborder="0"></iframe>
+</div>
+
+       			
+				<div id="Header">
+					<div id="Banner">
+						<div id="Options">
+							<div id="Authentication">
+								<span><a id="ctl00_lsLoginStatus" href="javascript:__doPostBack('ctl00$lsLoginStatus$ctl02','')">Login</a></span>
+							</div>
+							<div id="Settings">
+								<span id="ctl00_lSettings"></span>
+							</div>
+						</div>
+						<div id="Logo"><a id="ctl00_rbxImage_Logo" title="ROBLOX" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Default.aspx" style="display:inline-block;cursor:pointer;"><img src="index_files/Logo_267_70.png" id="img" alt="ROBLOX" blankurl="http://t2.roblox.com:80/blank-267x70.gif" border="0"></a>
+						</div>
+						<div id="Alerts"><table style="width:100%;height:100%"><tbody><tr><td valign="middle"><a id="ctl00_rbxAlerts_SignupAndPlayHyperLink" class="SignUpAndPlay" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Login/New.aspx?ReturnUrl=%2fGames.aspx"><img src="index_files/SignupBanner.png" alt="Sign-up and Play!" border="0"></a>
+
+</td></tr></tbody></table></div>
+					</div>
+					<div class="Navigation">
+						<span><a id="ctl00_hlMyRoblox" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/User.aspx">My ROBLOX</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlGames" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Games.aspx">Games</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlCatalog" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Catalog.aspx">Catalog</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+                        <span><a id="ctl00_hlBuildersClub" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Upgrades/BuildersClub.aspx">Builders Club</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlBrowse" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Browse.aspx">Browse</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlForum" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Forum/Default.aspx">Forum</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlNews" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://blog.roblox.com/" target="_blank">News</a>&nbsp;<a id="ctl00_hlNewsFeed" href="https://web.archive.org/web/20071015042423/http://blog.roblox.com/?feed=rss"><img src="index_files/feed-icon-14x14.png" border="0"></a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlParents" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Parents.aspx">Parents</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlHelp" class="MenuItem" href="https://web.archive.org/web/20071015042423/http://wiki.roblox.com/" target="_blank">Help</a></span>
+ 					</div>
+				</div>
+				<div id="Body">
+					
+	<div id="SplashContainer">
+		<div id="SignInPane">
+			
+
+<div id="LoginViewContainer">
+	
+			<div id="LoginView">
+				<h5>Member Login</h5>
+				
+<div class="AspNet-Login">
+						<div class="AspNet-Login">
+							<div class="AspNet-Login-UserPanel">
+								<label for="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserName" id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserNameLabel" class="Label">Character Name</label>
+								<input name="ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$UserName" type="text" id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserName" tabindex="1" class="Text">
+							</div>
+							<div class="AspNet-Login-PasswordPanel">
+								<label for="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Password" id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_PasswordLabel" class="Label">Password</label>
+								<input name="ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$Password" type="password" id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Password" tabindex="2" class="Text">
+							</div>
+							<!--div class="AspNet-Login-RememberMePanel"-->
+								
+							<!--/div-->
+							<div class="AspNet-Login-SubmitPanel">
+								<a id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Login" tabindex="4" class="Button" href="javascript:__doPostBack('ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$Login','')">Login</a>
+							</div>
+							<div class="AspNet-Login-PasswordRecoveryPanel">
+								<a id="ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_hlPasswordRecovery" tabindex="5" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Login/ResetPasswordRequest.aspx">Forgot your password?</a>
+							</div>
+						</div>
+					
+</div>
+			</div>
+		
+</div>
+
+			<div id="ctl00_cphRoblox_pFigure">
+	
+				<div id="Figure"><a id="ctl00_cphRoblox_ImageFigure" disabled="disabled" title="Figure" onclick="return false" style="display:inline-block;"><img src="index_files/figure.png" id="img" alt="Figure" blankurl="http://t1.roblox.com:80/blank-115x130.gif" border="0"></a></div>
+			
+</div>
+			
+		</div>
+		<div id="RobloxAtAGlance">
+			<h2>ROBLOX Virtual Playworld</h2>
+			<h3>ROBLOX is Free!</h3>
+			<ul id="ThingsToDo">
+				<li id="Point1">
+					<h3>Build your personal Place</h3>
+					<div>Create buildings, vehicles, scenery, and traps with thousands of virtual bricks.</div>
+				</li>
+				<li id="Point2">
+					<h3>Meet new friends online</h3>
+					<div>Visit your friend's place, chat in 3D, and build together.</div>
+				</li>
+				<li id="Point3">
+					<h3>Battle in the Brick Arenas</h3>
+					<div>Play with the slingshot, rocket, or other brick battle tools.  Be careful not to get "bloxxed".</div>
+				</li>
+			</ul>
+			<div id="Showcase">
+				<!--embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=7769128813330454055&hl=en" flashvars="" /-->
+				<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="index_files/googleplayer.swf" flashvars="">
+			</div>
+			<div id="Install">
+				<div id="CompatibilityNote"><div id="ctl00_cphRoblox_pCompatibilityNote">
+	Works with your<br>Windows PC!
+</div></div>
+				<div id="DownloadAndPlay"><a id="ctl00_cphRoblox_hlDownloadAndPlay" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Login/New.aspx?ReturnUrl=%2fGames.aspx"><img src="index_files/DownloadAndPlay.png" alt="FREE - Download and Play!" border="0"></a></div>
+			</div>
+			<div id="ctl00_cphRoblox_pForParents">
+	
+				<div id="ForParents">
+					<a id="ctl00_cphRoblox_hlKidSafe" title="ROBLOX is kid-safe!" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Parents.aspx" style="display:inline-block;"><img title="ROBLOX is kid-safe!" src="index_files/COPPASeal-150x150.png" border="0"></a>
+				</div>
+			
+</div>
+		</div>
+		<div id="UserPlacesPane">
+			<div id="UserPlaces_Content">
+			    
+				<table id="ctl00_cphRoblox_DataListCoolPlace" width="100%" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="UserPlace">
+						<a id="ctl00_cphRoblox_DataListCoolPlace_ctl00_rbxContentImage" title="Pirate Ship" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Place.aspx?id=1578" style="display:inline-block;cursor:pointer;"><img src="index_files/Place-120x70-80e1aa365300ee7d1d4e5d8144f7cd43.Png" id="img" alt="Pirate Ship" border="0"></a>
+					</td><td class="UserPlace">
+						<a id="ctl00_cphRoblox_DataListCoolPlace_ctl01_rbxContentImage" title="Stairway to Heaven" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Place.aspx?id=3592" style="display:inline-block;cursor:pointer;"><img src="index_files/Place-120x70-1afd750472d4ff2ff6cae824880fbbfa.Png" id="img" alt="Stairway to Heaven" border="0"></a>
+					</td><td class="UserPlace">
+						<a id="ctl00_cphRoblox_DataListCoolPlace_ctl02_rbxContentImage" title="Grenades and Oranges(Classic)" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Place.aspx?id=16332" style="display:inline-block;cursor:pointer;"><img src="index_files/Place-120x70-ebf06a1dd10675afc1c2913ba9fa7a13.Png" id="img" alt="Grenades and Oranges(Classic)" border="0"></a>
+					</td><td class="UserPlace">
+						<a id="ctl00_cphRoblox_DataListCoolPlace_ctl03_rbxContentImage" title="Robloxopolis" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Place.aspx?id=18762" style="display:inline-block;cursor:pointer;"><img src="index_files/Place-120x70-669b6da8fbd50a1bacad2b5593b30661.Png" id="img" alt="Robloxopolis" border="0"></a>
+					</td><td class="UserPlace">
+						<a id="ctl00_cphRoblox_DataListCoolPlace_ctl04_rbxContentImage" title="▄▀▄▀▄ Space Cruise V2.12 Halloween▄▀▄▀▄ " href="https://web.archive.org/web/20071015042423/http://www.roblox.com/Place.aspx?id=73106" style="display:inline-block;cursor:pointer;"><img src="index_files/Place-120x70-657828d8a149af12ef7a9a00b21d64a0.Png" id="img" alt="▄▀▄▀▄ Space Cruise V2.12 Halloween▄▀▄▀▄ " border="0"></a>
+					</td>
+	</tr>
+</tbody></table>
+			</div>
+			<div id="UserPlaces_Header">
+				<h3>Cool Places</h3>
+				<p>Check out some of our favorite ROBLOX places!</p>
+			</div>
+			<div id="ctl00_cphRoblox_ie6_peekaboo" style="clear: both"></div>
+		</div>
+	</div>
+
+				</div>
+				<div id="Footer">
+					
+<hr>
+<p class="Legalese">
+    ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia
+    are trademarks of
+    <a id="ctl00_rbxFooter_hlRobloxCorporation" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/info/About.aspx">ROBLOX Corporation</a>,
+    ©2007. Patents pending.<br>
+    ROBLOX Corp. is not affliated with Lego, MegaBloks, Bionicle, 
+Pokemon, Nintendo, Lincoln Logs, Yu Gi Oh, K'nex, Tinkertoys, Erector 
+Set, or the Pirates of the Caribbean. ARrrr!<br>
+    Use of this site signifies your acceptance of the
+    <a id="ctl00_rbxFooter_hlTermsOfService" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/info/TermsOfService.aspx">Terms and Conditions</a>.<br>
+    <a id="ctl00_rbxFooter_hlPrivacyPolicy" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/info/Privacy.aspx">Privacy Policy</a>
+    &nbsp;|&nbsp; <a href="https://web.archive.org/web/20071015042423/mailto:info@roblox.com">Contact Us</a> &nbsp;|&nbsp;
+    <a id="ctl00_rbxFooter_hlAboutRoblox" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/info/About.aspx">About Us</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_rbxFooter_HyperLink1" href="https://web.archive.org/web/20071015042423/http://www.roblox.com/info/Jobs.aspx">Jobs</a></p>
+
+				</div>
+			</div>
+           
+			
+        <script src="index_files/urchin.js" type="text/javascript"></script>
+        <script type="text/javascript">_uacct="UA-486632-1"; _udn="roblox.com"; urchinTracker(); __utmSetVar('Visitor/Anonymous');</script>
+    
+            
+		
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="j+GFPnfS9P3V7zxnRDTCj0nIFGOXgsycAf+Q6UN3iifZKxzBMwhaEMvHYiMZoMFB">
+
+<script type="text/javascript">
+<!--
+__utmSetVar('Ads/Banner');Roblox.Controls.Image.IE6Hack($get('ctl00_rbxImage_Logo'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_ImageFigure'));Sys.Application.initialize();
+// -->
+</script>
+</form>
+	
+
+
+</body></html>
+<!--
+     FILE ARCHIVED ON 04:24:23 Oct 15, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:27:54 Jun 11, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.393
+  LoadShardBlock: 1036.534 (4)
+  esindex: 0.016
+  exclusion.robots.policy: 0.377
+  RedisCDXSource: 4.527
+  PetaboxLoader3.datanode: 938.424 (5)
+  captures_list: 2328.617
+  PetaboxLoader3.resolve: 28.997
+  CDXLines.iter: 87.582 (4)
+  load_resource: 92.24
+-->
