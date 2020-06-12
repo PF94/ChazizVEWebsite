@@ -193,7 +193,7 @@ input.Text
 {
 	top: 0px;
 	left: 0px;
-	padding: 4px;
+	padding: 9px;
 	position: absolute;
 }
 
@@ -273,7 +273,7 @@ input.Text
 #Header .Navigation
 {
 	clear: both;
-	background-color: #a479d7;
+	background-color: #8c00d8;
 	border-bottom: solid 1px #000;
 	border-left: solid 1px #000;
 	border-right: solid 1px #000;
