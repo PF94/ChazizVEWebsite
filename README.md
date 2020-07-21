@@ -1,2 +1,9 @@
 # ChazizVEWebsite
-The official Chaziz Video Entertainment website. Keep in mind, this isn't a big website (compared to Project Pheonix/2003page). It's mostly just a website for Chaziz Video Entertainment.
+The official Chaziz Video Entertainment website. Keep in mind, this isn't a big website (compared to the now-shutdown Project Pheonix, and it's predecessor 2003page). It's mostly just a website for Chaziz Video Entertainment.
+
+## To-do List
+
+- [ ] Remove "Byigans Icons"
+- [ ] Find alternative place to host "Archive" files.
+- [ ] Ditch icons from AC:NL, and make new icons (might be useful for The Sivity Folks/Sivityigans)
+- [ ] Make proper CSS for the subsites (they just use inline atm)
