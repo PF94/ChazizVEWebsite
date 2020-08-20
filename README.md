@@ -3,7 +3,7 @@ The official Chaziz Video Entertainment website. Keep in mind, this isn't a big 
 
 ## To-do List
 
-- [ ] Remove "Byigans Icons"
+- [x] Remove "Byigans Icons"
 - [ ] Find alternative place to host "Archive" files.
 - [ ] ~~Ditch icons from AC:NL, and make new icons using Flash 8/CS3 (might be useful for The Sivity Folks/Sivityigans)~~
 - [ ] Make proper CSS for the subsites (they just use inline atm)
