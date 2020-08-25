@@ -1,0 +1,1538 @@
+2	SERVER START	07/17/20	18:13:20	--------------------------
+5	07/17/20	18:18:55		11313	47101	SlyAlligator	test
+6	07/17/20	18:19:14		11313	47101	SlyAlligator	how the fuck
+7	07/17/20	18:23:18		11313	47101	SlyAlligator	FUCK
+2	SERVER START	07/17/20	16:21:10	--------------------------
+2	SERVER START	07/17/20	16:25:33	--------------------------
+2	SERVER START	07/17/20	16:27:09	--------------------------
+5	07/17/20	16:30:19		4785	47101	SlyAlligator	SHIT
+8	07/17/20	16:34:39		4928	47101	SlyAlligator	WHY THE FUCK
+9	07/17/20	16:34:40		4928	47101	SlyAlligator	DO I NEED TO RELOAD
+10	07/17/20	16:34:45		4928	47101	SlyAlligator	JUST TO LOAD IN THE FUCXKING SAVE
+13	07/17/20	16:37:23		4947	47101	SlyAlligator	FUCk
+14	07/17/20	16:43:07		4947	47101	SlyAlligator	manjaro branded lag
+17	07/17/20	16:46:27		16923	47101	SlyAlligator	great v20 crashed
+19	07/17/20	16:53:54		16923	47101	SlyAlligator	yo
+20	07/17/20	16:54:00		17506	230061	Grumpz	virtualbox is now on the 3ds
+21	07/17/20	16:54:03		17506	230061	Grumpz	what
+22	07/17/20	16:54:03		16923	47101	SlyAlligator	do you want m-
+23	07/17/20	16:54:04		16923	47101	SlyAlligator	WHAT THE FUCK
+24	07/17/20	16:54:05		17506	230061	Grumpz	the
+25	07/17/20	16:54:07		17506	230061	Grumpz	FUCK
+26	07/17/20	16:54:11		17506	230061	Grumpz	its a port i think
+27	07/17/20	16:54:16		17506	230061	Grumpz	i gotta try that shit out
+28	07/17/20	16:54:30		17506	230061	Grumpz	virtual FUCKING BOX!!!!!!!!!!!!!!
+29	07/17/20	16:54:50		17506	230061	Grumpz	3ds running linux coming soon
+30	07/17/20	16:54:57		16923	47101	SlyAlligator	should i explain why the server was in maintence for like 4 hours?
+31	07/17/20	16:55:00		17506	230061	Grumpz	why
+32	07/17/20	16:55:02		17506	230061	Grumpz	yea
+33	07/17/20	16:55:16		16923	47101	SlyAlligator	so windows 8.1 shitted it's pants and disabled the mouse for me
+34	07/17/20	16:55:34		16923	47101	SlyAlligator	then teamviewer tried to get my personal infomation by "banning" me
+35	07/17/20	16:55:52		16923	47101	SlyAlligator	so at first i copied the files of the dedi to my main pc, then installed some addons
+36	07/17/20	16:56:07		16923	47101	SlyAlligator	then i installed manjaro linux since i had a usb stick that had a manjaro installer
+37	07/17/20	16:56:38		16923	47101	SlyAlligator	then i installed wine on manjaro and then figured out how to get SSH to work
+38	07/17/20	16:56:39		17506	230061	Grumpz	well
+39	07/17/20	16:56:55		17506	230061	Grumpz	the poster is better than we can do it ngl
+40	07/17/20	16:56:56		16923	47101	SlyAlligator	then i copied the dedi files to my manjaro server, and then i got all to work
+41	07/17/20	16:57:06		16923	47101	SlyAlligator	it's not the slyper poster
+42	07/17/20	16:57:10		17506	230061	Grumpz	ik
+43	07/17/20	16:57:32		16923	47101	SlyAlligator	ngl the slyper poster leaked sivityigans' ideas
+44	07/17/20	16:57:40		17506	230061	Grumpz	either that or the poster was cut off
+45	07/17/20	16:57:42		17506	230061	Grumpz	but it wasnt
+46	07/17/20	16:58:17		16923	47101	SlyAlligator	the bedroom retexture is still in alpha
+47	07/17/20	16:58:25		16923	47101	SlyAlligator	seamed textures, and what not
+48	07/17/20	16:58:45		17506	230061	Grumpz	still downloading my 3ds games
+49	07/17/20	16:58:54		17506	230061	Grumpz	and then im gonna back them up
+50	07/17/20	16:59:05		17506	230061	Grumpz	so if i get banned i will have a copy
+51	07/17/20	16:59:32		16923	47101	SlyAlligator	hey um
+52	07/17/20	16:59:43		16923	47101	SlyAlligator	if you see a sivityians comic about canberra
+53	07/17/20	16:59:57		16923	47101	SlyAlligator	i mean it'll appear soon on the blog and my private twitter
+54	07/17/20	17:00:01		16923	47101	SlyAlligator	public*
+55	07/17/20	17:00:16		16923	47101	SlyAlligator	just keep in mind i had that idea after i brought in [redacted]
+56	07/17/20	17:00:52		17506	230061	Grumpz	obama made jailbreaking devices legal
+57	07/17/20	17:01:00		17506	230061	Grumpz	the only good thing he did
+58	07/17/20	17:01:12		16923	47101	SlyAlligator	please don't talk about politics
+59	07/17/20	17:01:15		17506	230061	Grumpz	ok
+60	07/17/20	17:01:19		17506	230061	Grumpz	thats all i was gonna say
+61	07/17/20	17:01:39		16923	47101	SlyAlligator	ngl the canberra comic i told you is that canperra idea
+62	07/17/20	17:01:50		16923	47101	SlyAlligator	no it won't be canberra [redacted]
+63	07/17/20	17:02:45		17506	230061	Grumpz	*thumbs up*
+64	07/17/20	17:02:52		17506	230061	Grumpz	i tried manjaro once
+65	07/17/20	17:03:00		17506	230061	Grumpz	never used it as a main cause im lazy
+66	07/17/20	17:03:06		17506	230061	Grumpz	well
+67	07/17/20	17:03:29		17506	230061	Grumpz	i have it installed on my main (this computer) but i cant access it (thanks grub)
+68	07/17/20	17:03:37		17506	230061	Grumpz	so basically its useless
+69	07/17/20	17:03:51		16923	47101	SlyAlligator	test
+70	07/17/20	17:04:03		16923	47101	SlyAlligator	battery cover is lost
+71	07/17/20	17:04:07		16923	47101	SlyAlligator	shitty chinese keyboard
+72	07/17/20	17:04:18		17506	230061	Grumpz	unless i track down my hirens boot cd i wont be able to boot into manjaro
+73	07/17/20	17:04:28		16923	47101	SlyAlligator	hey
+74	07/17/20	17:04:43		16923	47101	SlyAlligator	let me ask you a important question for the developement of the two chazzy projecas
+75	07/17/20	17:04:45		16923	47101	SlyAlligator	projects*
+76	07/17/20	17:05:15		16923	47101	SlyAlligator	should i make sly and canberra fall in love ?
+77	07/17/20	17:05:20		16923	47101	SlyAlligator	when i mean sly i mean the sly in the poster
+78	07/17/20	17:05:28		16923	47101	SlyAlligator	not the fucking playstation character
+79	07/17/20	17:05:33		17506	230061	Grumpz	dont even fuc- oh
+80	07/17/20	17:05:52		16923	47101	SlyAlligator	yeah i always say "sly the alligator" and not "sly"
+81	07/17/20	17:06:09		17506	230061	Grumpz	i knew it was the >
+82	07/17/20	17:06:18		16923	47101	SlyAlligator	wdym with ">"
+83	07/17/20	17:06:28		17506	230061	Grumpz	lol i was too lazy to type alligator
+84	07/17/20	17:06:34		16923	47101	SlyAlligator	OHHHH
+85	07/17/20	17:06:49		16923	47101	SlyAlligator	oh yeah the alligator/crocodile shit you learned in primary school
+86	07/17/20	17:06:53		17506	230061	Grumpz	yea
+87	07/17/20	17:07:02		16923	47101	SlyAlligator	20% of math was that shit
+88	07/17/20	17:07:08		16923	47101	SlyAlligator	back in around 2nd grade for me
+89	07/17/20	17:07:15		17506	230061	Grumpz	now i use it for programming lol
+90	07/17/20	17:07:21		17506	230061	Grumpz	fuck the math shit
+91	07/17/20	17:07:27		17506	230061	Grumpz	<> is programming for me
+92	07/17/20	17:07:30		16923	47101	SlyAlligator	<>is gay
+93	07/17/20	17:07:34		17506	230061	Grumpz	<> red
+94	07/17/20	17:07:34		16923	47101	SlyAlligator	<> red text is gay
+95	07/17/20	17:07:46		17506	230061	Grumpz	why does <> make stuff red
+96	07/17/20	17:07:56		16923	47101	SlyAlligator	probably a error
+97	07/17/20	17:08:02		17506	230061	Grumpz	<
+98	07/17/20	17:08:03		17506	230061	Grumpz	>
+99	07/17/20	17:08:07		17506	230061	Grumpz	???/?
+100	07/17/20	17:08:15		16923	47101	SlyAlligator	i think "<" just ends the "white color shit"
+101	07/17/20	17:08:26		16923	47101	SlyAlligator	red is the default color for texts
+102	07/17/20	17:08:34		17506	230061	Grumpz	?
+103	07/17/20	17:08:55		16923	47101	SlyAlligator	eh
+104	07/17/20	17:08:58		16923	47101	SlyAlligator	nm
+105	07/17/20	17:09:10		17506	230061	Grumpz	isnt white default
+106	07/17/20	17:09:14		16923	47101	SlyAlligator	nope
+107	07/17/20	17:09:19		17506	230061	Grumpz	wait
+108	07/17/20	17:09:21		17506	230061	Grumpz	it is
+109	07/17/20	17:09:24		16923	47101	SlyAlligator	?
+110	07/17/20	17:09:25		17506	230061	Grumpz	what the fuck
+111	07/17/20	17:09:36		16923	47101	SlyAlligator	also i removed references of chaziz and sivityigans
+112	07/17/20	17:09:37		17506	230061	Grumpz	wait white is the default chat color
+113	07/17/20	17:09:41		16923	47101	SlyAlligator	<a
+114	07/17/20	17:10:07		17506	230061	Grumpz	have i experienced the mandela effect?
+115	07/17/20	17:10:16		16923	47101	SlyAlligator	lol
+116	07/17/20	17:10:21		17506	230061	Grumpz	or have you?
+117	07/17/20	17:10:21		16923	47101	SlyAlligator	yeah i forgot to reenable auto save lol
+118	07/17/20	17:10:28		16923	47101	SlyAlligator	i've played blockland since 2014
+119	07/17/20	17:10:36		16923	47101	SlyAlligator	the default text color has always been red
+120	07/17/20	17:10:45		17506	230061	Grumpz	for me its been white
+121	07/17/20	17:10:49		17506	230061	Grumpz	see?
+122	07/17/20	17:10:56		16923	47101	SlyAlligator	um
+123	07/17/20	17:10:58		17506	230061	Grumpz	im talking chat color
+124	07/17/20	17:11:04		16923	47101	SlyAlligator	the default text color outside of chat is red
+125	07/17/20	17:11:10		17506	230061	Grumpz	OHHHHHHHHHH
+126	07/17/20	17:11:17		17506	230061	Grumpz	well then im right
+127	07/17/20	17:11:21		16923	47101	SlyAlligator	ehh
+128	07/17/20	17:11:25		17506	230061	Grumpz	you were thinking text
+129	07/17/20	17:11:29		17506	230061	Grumpz	i was thinking chat
+130	07/17/20	17:11:29		16923	47101	SlyAlligator	chat is text
+131	07/17/20	17:11:38		17506	230061	Grumpz	you killed manjaro
+132	07/17/20	17:11:48		16923	47101	SlyAlligator	inb4 i get a kernel panic
+133	07/17/20	17:12:07		17506	230061	Grumpz	what is inb4 again?
+134	07/17/20	17:12:57		17506	230061	Grumpz	i have to boot up my computer with f12 now
+135	07/17/20	17:13:01		17506	230061	Grumpz	to get to the boot menu
+136	07/17/20	17:13:01		16923	47101	SlyAlligator	f12?
+137	07/17/20	17:13:03		16923	47101	SlyAlligator	oh yeah
+138	07/17/20	17:13:07		17506	230061	Grumpz	i broke grub
+139	07/17/20	17:13:11		16923	47101	SlyAlligator	fun fact
+140	07/17/20	17:13:18		16923	47101	SlyAlligator	i tried installing ubuntu and it shat it's pants and grub broke
+141	07/17/20	17:13:26		17506	230061	Grumpz	what did you do
+142	07/17/20	17:13:31		17506	230061	Grumpz	FUCK!
+143	07/17/20	17:13:32		16923	47101	SlyAlligator	tried dual-booting
+144	07/17/20	17:13:40		17506	230061	Grumpz	how did you fix grub
+145	07/17/20	17:13:44		16923	47101	SlyAlligator	i didnt
+146	07/17/20	17:14:00		16923	47101	SlyAlligator	i deleted the ubuntu partition, then i upgraded 8.1 to 10 (for a hackintosh project i gave up early on)
+147	07/17/20	17:14:16		17506	230061	Grumpz	im thinking of reinstalling linux mint
+148	07/17/20	17:14:19		17506	230061	Grumpz	so grub will work
+149	07/17/20	17:14:24		16923	47101	SlyAlligator	manjaro is mate
+150	07/17/20	17:14:28		16923	47101	SlyAlligator	FUCK
+151	07/17/20	17:14:29		16923	47101	SlyAlligator	ARCH
+152	07/17/20	17:14:30		16923	47101	SlyAlligator	i MEANT ARCH
+153	07/17/20	17:14:46		17506	230061	Grumpz	or maybe ill go with manjaro, does that reinstall grub
+154	07/17/20	17:14:52		17506	230061	Grumpz	i mean normal manjaro
+155	07/17/20	17:15:00		16923	47101	SlyAlligator	manjaro is arch linux without the manual installation bullshit
+156	07/17/20	17:15:00		17506	230061	Grumpz	not architect
+157	07/17/20	17:15:10		17506	230061	Grumpz	but will it install grub for dualboot
+158	07/17/20	17:15:26		16923	47101	SlyAlligator	hold on
+159	07/17/20	17:15:31		16923	47101	SlyAlligator	let me go SSL my server
+160	07/17/20	17:16:07		17506	230061	Grumpz	ironfall is taking a fucking year to download
+161	07/17/20	17:16:10		16923	47101	SlyAlligator	LOL
+162	07/17/20	17:16:20		16923	47101	SlyAlligator	wait are you using freeshop or eshop
+163	07/17/20	17:16:28		17506	230061	Grumpz	eshop, im not cfwed yet
+164	07/17/20	17:16:36		16923	47101	SlyAlligator	wait how the fuck are you backing up your games
+165	07/17/20	17:16:43		17506	230061	Grumpz	gonna back up the sd card
+166	07/17/20	17:16:51		17506	230061	Grumpz	speaking of fuck
+167	07/17/20	17:16:52		16923	47101	SlyAlligator	i don't think that's how it works tbh
+168	07/17/20	17:17:01		17506	230061	Grumpz	FUCL!
+169	07/17/20	17:17:01		16923	47101	SlyAlligator	wdym with "fuck"
+170	07/17/20	17:17:03		17506	230061	Grumpz	FUCK!
+171	07/17/20	17:18:08		17506	230061	Grumpz	i just want a backup so if i delete some games and nintendo bans me and i dont wanna use freeshop i can still get me esh
+172	07/17/20	17:18:08		17506	230061	Grumpz	op games
+173	07/17/20	17:18:24		16923	47101	SlyAlligator	nintendo has given up at this point
+174	07/17/20	17:18:31		16923	47101	SlyAlligator	i pirated new leaf recently
+175	07/17/20	17:18:44		16923	47101	SlyAlligator	then hacked in sly and canberra (i said that to you over msn the other day)
+176	07/17/20	17:18:56		17506	230061	Grumpz	well im not into pirating (doesnt mean i hate you)
+177	07/17/20	17:19:22		17506	230061	Grumpz	wait does nintend even care about cfw anymore?
+178	07/17/20	17:19:37		17506	230061	Grumpz	wait does nintendo even care about cfw anymore?
+179	07/17/20	17:19:40		16923	47101	SlyAlligator	look
+180	07/17/20	17:19:46		16923	47101	SlyAlligator	the 3ds is 9 years old
+181	07/17/20	17:19:51		16923	47101	SlyAlligator	the switch is in it's middle life
+182	07/17/20	17:20:11		17506	230061	Grumpz	honestly i played an online match on CFW (mind you i didnt use any hacks) and i was fine
+183	07/17/20	17:20:19		17506	230061	Grumpz	so they probably wont ban me?
+184	07/17/20	17:20:28		16923	47101	SlyAlligator	last banwave was in 2017
+185	07/17/20	17:20:33		16923	47101	SlyAlligator	back when the switch was fairly new
+186	07/17/20	17:20:44		17506	230061	Grumpz	cause sometimes i wanna use eshop or play an online game
+187	07/17/20	17:20:54		17506	230061	Grumpz	or do NNID shit
+188	07/17/20	17:20:54		16923	47101	SlyAlligator	2018*
+189	07/17/20	17:20:59		16923	47101	SlyAlligator	last banwave was mid-2018
+190	07/17/20	17:21:09		17506	230061	Grumpz	i remember those times
+191	07/17/20	17:21:15		17506	230061	Grumpz	but i didnt know of cfw then
+192	07/17/20	17:21:24		16923	47101	SlyAlligator	and iirc the 3ds' last few 1st party (made by nintendo) games came out in 2018
+193	07/17/20	17:21:49		16923	47101	SlyAlligator	mostly mixed-reviews games that ethier were stuck in developement hell
+194	07/17/20	17:22:14		16923	47101	SlyAlligator	or were just made for people that didn't wanted to switch to switch (no pun intended)
+195	07/17/20	17:22:18		17506	230061	Grumpz	wait does nintendo even care that sometimes i make copies of cartridge games to play on emulators, well im not in jail y
+196	07/17/20	17:22:18		17506	230061	Grumpz	et so i guess not
+197	07/17/20	17:22:24		17506	230061	Grumpz	im not uploading them tho
+198	07/17/20	17:22:30		16923	47101	SlyAlligator	heh
+199	07/17/20	17:22:32		17506	230061	Grumpz	just playing them on pc
+200	07/17/20	17:22:36		16923	47101	SlyAlligator	most of my wii games are pirated
+201	07/17/20	17:22:39		16923	47101	SlyAlligator	i got them from google drive
+202	07/17/20	17:22:47		17506	230061	Grumpz	google drive is shit
+203	07/17/20	17:22:56		17506	230061	Grumpz	they dont give a fuck about anything
+204	07/17/20	17:23:33		17506	230061	Grumpz	i downloaded adobe primere pro once
+205	07/17/20	17:23:39		17506	230061	Grumpz	exept it was from adobe
+206	07/17/20	17:23:46		17506	230061	Grumpz	yea
+207	07/17/20	17:23:48		17506	230061	Grumpz	free primere
+208	07/17/20	17:23:53		16923	47101	SlyAlligator	i was going to try moving to premiere cs6 the other ady
+209	07/17/20	17:23:55		17506	230061	Grumpz	but its older than me
+210	07/17/20	17:23:58		16923	47101	SlyAlligator	but i decided against
+211	07/17/20	17:24:00		16923	47101	SlyAlligator	>older
+212	07/17/20	17:24:06		16923	47101	SlyAlligator	what year you were born in
+213	07/17/20	17:24:16		17506	230061	Grumpz	what year were you born in?
+214	07/17/20	17:24:19		16923	47101	SlyAlligator	2007
+215	07/17/20	17:24:20		16923	47101	SlyAlligator	you?
+216	07/17/20	17:24:24		17506	230061	Grumpz	theres your answer
+217	07/17/20	17:24:37		16923	47101	SlyAlligator	i'm pretty sure you got one of those pre-CS versions
+218	07/17/20	17:24:41		17506	230061	Grumpz	yea
+219	07/17/20	17:24:48		17506	230061	Grumpz	i think it was just primere pro
+220	07/17/20	17:24:51		17506	230061	Grumpz	from 2005
+221	07/17/20	17:25:00		16923	47101	SlyAlligator	iirc adobe has a download for flash mx 2004
+222	07/17/20	17:25:08		16923	47101	SlyAlligator	i don't get it why it's mx 2004 and not 8
+223	07/17/20	17:25:12		17506	230061	Grumpz	why
+224	07/17/20	17:25:44		17506	230061	Grumpz	iirc i could do more with movavi than primere pro
+225	07/17/20	17:25:57		17506	230061	Grumpz	why? idk
+226	07/17/20	17:26:08		17506	230061	Grumpz	maybe cause im too used to movavi
+227	07/17/20	17:26:25		17506	230061	Grumpz	redownloadable software
+228	07/17/20	17:26:25		17506	230061	Grumpz	1
+229	07/17/20	17:26:27		17506	230061	Grumpz	N/A
+230	07/17/20	17:27:41		17506	230061	Grumpz	wait do you need to update 3ds games to play them?
+231	07/17/20	17:27:50		16923	47101	SlyAlligator	no
+232	07/17/20	17:27:54		17506	230061	Grumpz	k
+233	07/17/20	17:27:55		17506	230061	Grumpz	good
+234	07/17/20	17:28:05		16923	47101	SlyAlligator	i have new leaf
+235	07/17/20	17:28:09		16923	47101	SlyAlligator	new leaf 1.0
+236	07/17/20	17:28:12		16923	47101	SlyAlligator	not welcome amiibo
+237	07/17/20	17:28:34		16923	47101	SlyAlligator	laggo
+238	07/17/20	17:28:59		17506	230061	Grumpz	well im gonna see what games i dont wanna update
+239	07/17/20	17:30:19		17506	230061	Grumpz	or should i just not update them since im gonna do cfw?
+240	07/17/20	17:32:46		16923	47101	SlyAlligator	hello?
+241	07/17/20	17:33:34		16923	47101	SlyAlligator	fun fact i got my pfp at <a:nookipedia.com/wiki/File:SlyPicACNH.png>nookipedia.com/wiki/File:SlyPicACNH.png</a>
+242	07/17/20	17:33:38		16923	47101	SlyAlligator	WHAT
+243	07/17/20	17:33:41		16923	47101	SlyAlligator	HOW DID IT LITTEARLY FGUCKING BROKE
+244	07/17/20	17:33:42		16923	47101	SlyAlligator	<a:nookipedia.com/wiki/File:SlyPicACNH.png>nookipedia.com/wiki/File:SlyPicACNH.png</a>
+245	07/17/20	17:35:50		16923	47101	SlyAlligator	grumpz wtf
+246	07/17/20	17:36:42		16923	47101	SlyAlligator	grumpz whaat
+247	07/17/20	17:36:46		17506	230061	Grumpz	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+248	07/17/20	17:36:49		16923	47101	SlyAlligator	i was busy doing my banner
+249	07/17/20	17:36:55		16923	47101	SlyAlligator	SSH banner
+250	07/17/20	17:36:58		17506	230061	Grumpz	im mining
+251	07/17/20	17:36:59		17506	230061	Grumpz	?
+252	07/17/20	17:37:08		17506	230061	Grumpz	ssh banner?
+253	07/17/20	17:37:10		16923	47101	SlyAlligator	yea
+254	07/17/20	17:37:14		17506	230061	Grumpz	wtf is that
+255	07/17/20	17:37:49		17506	230061	Grumpz	wtf is an ssh banner
+256	07/17/20	17:37:56		16923	47101	SlyAlligator	eh
+257	07/17/20	17:37:58		16923	47101	SlyAlligator	one day
+258	07/17/20	17:38:08		16923	47101	SlyAlligator	try to [redacted, i don't want people to go in]
+259	07/17/20	17:38:25		16923	47101	SlyAlligator	[redacted, i don't want people to go in]
+260	07/17/20	17:38:28		17506	230061	Grumpz	ohhhh
+261	07/17/20	17:38:37		16923	47101	SlyAlligator	a[redacted, i don't want people to go in]
+262	07/17/20	17:38:45		17506	230061	Grumpz	but
+263	07/17/20	17:38:50		16923	47101	SlyAlligator	as
+264	07/17/20	17:38:51		16923	47101	SlyAlligator	?
+265	07/17/20	17:38:52		17506	230061	Grumpz	wats your ip
+266	07/17/20	17:38:55		16923	47101	SlyAlligator	not now
+267	07/17/20	17:38:56		17506	230061	Grumpz	when its done
+268	07/17/20	17:38:59		16923	47101	SlyAlligator	you should know by it
+269	07/17/20	17:39:21		17506	230061	Grumpz	im not gonna do anything bad with it i swear
+270	07/17/20	17:39:33		16923	47101	SlyAlligator	i'm logging this chat and once this server is done
+271	07/17/20	17:39:38		16923	47101	SlyAlligator	i'm making it public on chaziz.2003page.ga
+272	07/17/20	17:39:52		17506	230061	Grumpz	why?
+273	07/17/20	17:39:54		17506	230061	Grumpz	fuck
+274	07/17/20	17:39:56		16923	47101	SlyAlligator	FUCK
+275	07/17/20	17:40:00		17506	230061	Grumpz	i hit the FUCK!
+276	07/17/20	17:40:07		16923	47101	SlyAlligator	punintended?
+277	07/17/20	17:40:10		17506	230061	Grumpz	maybe
+278	07/17/20	17:40:24		16923	47101	SlyAlligator	i could give you a account on my manjaro insatllation
+279	07/17/20	17:41:26		17506	230061	Grumpz	wait
+280	07/17/20	17:41:33		17506	230061	Grumpz	i know your ip
+281	07/17/20	17:41:36		17506	230061	Grumpz	its on blockland
+282	07/17/20	17:41:49		17506	230061	Grumpz	or do i?
+283	07/17/20	17:41:49		16923	47101	SlyAlligator	ik
+285	07/17/20	17:42:23		16923	47101	SlyAlligator	WHAT
+287	07/17/20	17:42:29		16923	47101	SlyAlligator	grumpz did your other client had a seizuwer8uh
+288	07/17/20	17:42:34		16923	47101	SlyAlligator	or not
+289	07/17/20	17:44:23		17506	230061	Grumpz	hmm
+290	07/17/20	17:44:25		17506	230061	Grumpz	im in
+291	07/17/20	17:44:28		17506	230061	Grumpz	but idk the login
+292	07/17/20	17:44:36		16923	47101	SlyAlligator	haven't made a account for y'a yet
+293	07/17/20	17:45:22		17506	230061	Grumpz	tried to stupid ass my way in
+294	07/17/20	17:45:24		17506	230061	Grumpz	but im dumb
+295	07/17/20	17:46:18		16923	47101	SlyAlligator	hold up
+296	07/17/20	17:46:27		16923	47101	SlyAlligator	afk because imma do some shit to the SSH
+297	07/17/20	17:46:28		16923	47101	SlyAlligator	afk
+298	07/17/20	17:49:10		16923	47101	SlyAlligator	nm
+299	07/17/20	17:50:39		17506	230061	Grumpz	WOOOOOO
+300	07/17/20	17:50:44		17506	230061	Grumpz	DSIWARE MANAGEMENT WORKS
+301	07/17/20	17:50:48		16923	47101	SlyAlligator	?
+302	07/17/20	17:50:52		17506	230061	Grumpz	FUCK YOU SPUDPIGGYS ADVICE
+303	07/17/20	17:50:56		16923	47101	SlyAlligator	LOL
+304	07/17/20	17:50:56		17506	230061	Grumpz	but dont
+305	07/17/20	17:51:08		17506	230061	Grumpz	apparently formatting seems to be fixing stuff
+306	07/17/20	17:51:30		17506	230061	Grumpz	but spudpiggy on msn told me not to
+307	07/17/20	17:53:16		17506	230061	Grumpz	WOO ITS MAKING A NEW SED
+308	07/17/20	17:53:26		17506	230061	Grumpz	i think this might just work
+309	07/17/20	17:53:35		17506	230061	Grumpz	too bad i lost my friend
+310	07/17/20	17:53:44		17506	230061	Grumpz	but i know other ways
+311	07/17/20	17:53:51		17506	230061	Grumpz	not just a 3ds friend
+312	07/17/20	17:56:26		17506	230061	Grumpz	s is my buddy
+313	07/17/20	17:56:28		17506	230061	Grumpz	he says yeet
+314	07/17/20	17:56:35		17506	230061	Grumpz	and hes a bot that makes movables
+315	07/17/20	17:56:39		17506	230061	Grumpz	lol
+316	07/17/20	17:56:42		17506	230061	Grumpz	nice touch there
+317	07/17/20	17:56:58		17506	230061	Grumpz	the bot has a mii and a message and all that
+318	07/17/20	17:58:48		16923	47101	SlyAlligator	yo grumpz
+319	07/17/20	17:58:54		16923	47101	SlyAlligator	i'm busy on the ssh
+320	07/17/20	17:58:57		16923	47101	SlyAlligator	i meant
+321	07/17/20	17:58:58		16923	47101	SlyAlligator	the server
+322	07/17/20	17:59:05		16923	47101	SlyAlligator	what should be your pass for it
+323	07/17/20	17:59:46		16923	47101	SlyAlligator	grumpz you here?
+324	07/17/20	17:59:49		17506	230061	Grumpz	hi
+325	07/17/20	17:59:58		16923	47101	SlyAlligator	what should be the pass for the account on my server
+326	07/17/20	18:00:00		17506	230061	Grumpz	i was messing with the 3ds
+327	07/17/20	18:00:03		17506	230061	Grumpz	uuh
+328	07/17/20	18:00:06		17506	230061	Grumpz	anythings fine
+329	07/17/20	18:00:08		16923	47101	SlyAlligator	meh
+330	07/17/20	18:00:09		17506	230061	Grumpz	just tell me it
+331	07/17/20	18:00:11		17506	230061	Grumpz	wait
+332	07/17/20	18:00:13		16923	47101	SlyAlligator	eh idk
+333	07/17/20	18:00:17		16923	47101	SlyAlligator	just send it over msn
+334	07/17/20	18:00:47		17506	230061	Grumpz	im wearing earbuds (for my ipod) and my headset (for my pc) at the same time
+335	07/17/20	18:00:49		16923	47101	SlyAlligator	ok
+336	07/17/20	18:00:53		17506	230061	Grumpz	it kinda works
+337	07/17/20	18:00:57		17506	230061	Grumpz	lol
+338	07/17/20	18:01:14		16923	47101	SlyAlligator	ok so it's [redacted, it's grumpz password for the server]
+339	07/17/20	18:01:17		16923	47101	SlyAlligator	right
+340	07/17/20	18:01:19		16923	47101	SlyAlligator	without the dots
+341	07/17/20	18:01:23		17506	230061	Grumpz	yea
+342	07/17/20	18:01:27		17506	230061	Grumpz	YOU SAID IT IN CHAT
+343	07/17/20	18:01:32		17506	230061	Grumpz	dont add that to the log
+344	07/17/20	18:03:20		16923	47101	SlyAlligator	i made it
+345	07/17/20	18:03:29		16923	47101	SlyAlligator	go to the SSH and you can connect now i guess
+346	07/17/20	18:03:33		16923	47101	SlyAlligator	just don't fuck it up
+347	07/17/20	18:04:53		16923	47101	SlyAlligator	the files situation hasen't resolved though
+348	07/17/20	18:05:06		17506	230061	Grumpz	toh
+349	07/17/20	18:05:10		17506	230061	Grumpz	ok
+350	07/17/20	18:05:17		17506	230061	Grumpz	i was working on my 3ds again
+351	07/17/20	18:07:03		17506	230061	Grumpz	hmm
+352	07/17/20	18:07:10		17506	230061	Grumpz	i can say hmm here
+353	07/17/20	18:07:19		17506	230061	Grumpz	theres no quick text to stop me
+354	07/17/20	18:07:19		16923	47101	SlyAlligator	no etard filter
+355	07/17/20	18:11:05		16923	47101	SlyAlligator	you messing around with your 2ds?
+356	07/17/20	18:11:10		16923	47101	SlyAlligator	3ds* (?)
+357	07/17/20	18:12:45		17506	230061	Grumpz	2ds
+358	07/17/20	18:12:48		17506	230061	Grumpz	you were right
+359	07/17/20	18:12:50		17506	230061	Grumpz	im hacking it
+360	07/17/20	18:12:56		17506	230061	Grumpz	seems to be going good this time
+361	07/17/20	18:13:19		17506	230061	Grumpz	i used to have cfw but i removed it to do an emunand which i then learned was out of date
+362	07/17/20	18:13:31		17506	230061	Grumpz	but removing cfw fucked it up so i coulnt put it back on
+363	07/17/20	18:13:42		16923	47101	SlyAlligator	emunands were like only useful in like
+364	07/17/20	18:13:44		16923	47101	SlyAlligator	i'd say, um
+365	07/17/20	18:13:45		16923	47101	SlyAlligator	2015?
+366	07/17/20	18:14:10		17506	230061	Grumpz	loli didnt know then (oh no loli add a space between lol and i
+367	07/17/20	18:18:15		16923	47101	SlyAlligator	test
+368	07/17/20	18:19:28		16923	47101	SlyAlligator	<a:en.wikipedia.org/wiki/Ubuntu_Unity>en.wikipedia.org/wiki/Ubuntu_Unity</a>
+369	07/17/20	18:19:31		16923	47101	SlyAlligator	unity revival?!?!?
+370	07/17/20	18:19:43		16923	47101	SlyAlligator	tbh ubuntu is kinda bloated debian
+371	07/17/20	18:19:54		16923	47101	SlyAlligator	i have a very old version of ubuntu installed on my toshiba
+372	07/17/20	18:20:03		17506	230061	Grumpz	yea
+373	07/17/20	18:20:06		17506	230061	Grumpz	a unity revival
+374	07/17/20	18:20:14		17506	230061	Grumpz	i heard about it
+375	07/17/20	18:20:23		17506	230061	Grumpz	what do you think of unity
+376	07/17/20	18:20:41		17506	230061	Grumpz	still working on the 2ds
+377	07/17/20	18:20:47		17506	230061	Grumpz	got it hacked!
+378	07/17/20	18:20:52		17506	230061	Grumpz	now to install the softwarez
+379	07/17/20	18:21:20		16923	47101	SlyAlligator	WHAT THE FUCK
+380	07/17/20	18:21:23		17506	230061	Grumpz	W
+381	07/17/20	18:21:24		17506	230061	Grumpz	H
+382	07/17/20	18:21:25		17506	230061	Grumpz	A
+383	07/17/20	18:21:26		17506	230061	Grumpz	T
+384	07/17/20	18:21:27		16923	47101	SlyAlligator	UBUNTU UNITY IS MAINTAINED BY A 10 YEAR OLD CHILD
+385	07/17/20	18:21:30		17506	230061	Grumpz	wait
+386	07/17/20	18:21:33		17506	230061	Grumpz	WHAT!
+387	07/17/20	18:21:47		16923	47101	SlyAlligator	yeah <a:en.wikipedia.org/wiki/Ubuntu_Unity>en.wikipedia.org/wiki/Ubuntu_Unity</a>
+388	07/17/20	18:21:56		16923	47101	SlyAlligator	>Saraswat was ten years old in 2020 when he first released Ubuntu Unity
+389	07/17/20	18:22:07		16923	47101	SlyAlligator	btw "unity" is a old UI that was introduced all the way back in 2011
+390	07/17/20	18:22:11		17506	230061	Grumpz	i know
+391	07/17/20	18:22:35		17506	230061	Grumpz	would you use it?
+392	07/17/20	18:23:06		16923	47101	SlyAlligator	eh ubuntu's kinda bloated ngl
+393	07/17/20	18:23:19		16923	47101	SlyAlligator	that's why i ended up using manjaro for my server
+394	07/17/20	18:24:02		17506	230061	Grumpz	oh
+395	07/17/20	18:26:24		16923	47101	SlyAlligator	anywayas whats up
+396	07/17/20	18:26:52		17506	230061	Grumpz	working on 2ds
+397	07/17/20	18:26:54		17506	230061	Grumpz	you?
+398	07/17/20	18:27:46		16923	47101	SlyAlligator	idk
+399	07/17/20	18:27:54		16923	47101	SlyAlligator	i'm brainstorming ideas for the chaziz website
+400	07/17/20	18:29:30		16923	47101	SlyAlligator	my idea was to it to be a sort-of hub
+401	07/17/20	18:29:40		17506	230061	Grumpz	ah
+402	07/17/20	18:29:46		16923	47101	SlyAlligator	for smaller subsites
+403	07/17/20	18:29:53		16923	47101	SlyAlligator	not in the site of 2003page
+404	07/17/20	18:30:01		16923	47101	SlyAlligator	i'd say something more simillar to those 90s sites
+405	07/17/20	18:31:51		17506	230061	Grumpz	like geocities?
+406	07/17/20	18:31:53		17506	230061	Grumpz	but smaller
+407	07/17/20	18:32:30		16923	47101	SlyAlligator	no
+408	07/17/20	18:32:34		17506	230061	Grumpz	i think im #2 in the most amout of sites ever made by one person/company
+409	07/17/20	18:32:41		17506	230061	Grumpz	#1 would probably be google
+410	07/17/20	18:32:53		16923	47101	SlyAlligator	it's pretty much sure it's just going to be a list of
+411	07/17/20	18:32:56		16923	47101	SlyAlligator	fuck
+412	07/17/20	18:32:58		16923	47101	SlyAlligator	i mean
+413	07/17/20	18:33:07		16923	47101	SlyAlligator	here's a list of subsites planned for chaziz.2003page.ga
+414	07/17/20	18:33:44		16923	47101	SlyAlligator	sivityigans/sivityians, blockland archive, screenshot archive, youtube, testing
+415	07/17/20	18:34:20		16923	47101	SlyAlligator	laggo
+416	07/17/20	18:34:21		16923	47101	SlyAlligator	HOW DO I ALG
+417	07/17/20	18:34:30		16923	47101	SlyAlligator	while removing a fucking brick
+418	07/17/20	18:38:04		17506	230061	Grumpz	tfuvk
+419	07/17/20	18:38:12		17506	230061	Grumpz	why wont godmode9 work
+420	07/17/20	18:38:22		17506	230061	Grumpz	i was holding start for a millenium
+421	07/17/20	18:38:34		17506	230061	Grumpz	nothing but a black screen
+422	07/17/20	18:39:11		16923	47101	SlyAlligator	eh
+423	07/17/20	18:39:24		16923	47101	SlyAlligator	laggolaggoag
+424	07/17/20	18:39:39		16923	47101	SlyAlligator	WHAT
+425	07/17/20	18:39:45		16923	47101	SlyAlligator	i am so lucky
+426	07/17/20	18:39:55		16923	47101	SlyAlligator	i was able to fill the screen with just ONE FUCKING BRICK
+427	07/17/20	18:39:57		16923	47101	SlyAlligator	ONE BRICK
+428	07/17/20	18:43:05		17506	230061	Grumpz	hmm
+429	07/17/20	18:44:38		16923	47101	SlyAlligator	removed music brick
+430	07/17/20	18:45:31		17506	230061	Grumpz	welllllll
+431	07/17/20	18:45:39		17506	230061	Grumpz	im getting somewhere
+432	07/17/20	18:50:10		16923	47101	SlyAlligator	FUCK
+434	07/17/20	18:50:32		16923	47101	SlyAlligator	hi
+435	07/17/20	18:50:34		21270	4669	Cca	hia
+437	07/17/20	18:50:38		16923	47101	SlyAlligator	bye
+438	07/17/20	18:53:16		16923	47101	SlyAlligator	how
+439	07/17/20	18:53:26		16923	47101	SlyAlligator	just fucking how
+440	07/17/20	18:54:35		16923	47101	SlyAlligator	lag
+441	07/17/20	18:55:33		16923	47101	SlyAlligator	improved the FUCK! event
+442	07/17/20	18:57:16		17506	230061	Grumpz	umm
+443	07/17/20	18:57:33		17506	230061	Grumpz	FUCK!
+444	07/17/20	18:59:44		16923	47101	SlyAlligator	seems to alg
+445	07/17/20	18:59:49		16923	47101	SlyAlligator	lol who care
+446	07/17/20	19:02:05		17506	230061	Grumpz	its FUCK! so who cares
+447	07/17/20	19:02:12		16923	47101	SlyAlligator	brb need to fix FUCK! again
+448	07/17/20	19:03:30		17506	230061	Grumpz	getting farther
+449	07/17/20	19:03:40		17506	230061	Grumpz	might have fixed godmode9
+450	07/17/20	19:04:26		16923	47101	SlyAlligator	a
+451	07/17/20	19:04:46		16923	47101	SlyAlligator	FUCK
+452	07/17/20	19:06:07		17506	230061	Grumpz	yes yes yes yes yes
+453	07/17/20	19:06:09		17506	230061	Grumpz	its working
+454	07/17/20	19:06:11		16923	47101	SlyAlligator	hnn?
+455	07/17/20	19:06:19		17506	230061	Grumpz	I GOT GOD MODE 9 TO BOOT
+456	07/17/20	19:06:32		17506	230061	Grumpz	virtual high five
+457	07/17/20	19:06:37		17506	230061	Grumpz	its got cfw now
+458	07/17/20	19:06:38		17506	230061	Grumpz	WOO
+459	07/17/20	19:06:40		17506	230061	Grumpz	HOO
+460	07/17/20	19:06:45		17506	230061	Grumpz	formatting was the answer
+461	07/17/20	19:06:51		17506	230061	Grumpz	you happy
+462	07/17/20	19:06:53		17506	230061	Grumpz	im happy
+463	07/17/20	19:07:38		16923	47101	SlyAlligator	chance i might do a timelapse tomrrow
+464	07/17/20	19:07:53		16923	47101	SlyAlligator	i won't be restricting a area of the bedroom
+465	07/17/20	19:07:59		16923	47101	SlyAlligator	just some floarting baseplate and that's it
+466	07/17/20	19:08:00		17506	230061	Grumpz	tok
+467	07/17/20	19:08:02		17506	230061	Grumpz	ok
+468	07/17/20	19:08:11		17506	230061	Grumpz	are you happy that i got cfw working
+469	07/17/20	19:08:13		16923	47101	SlyAlligator	yea
+470	07/17/20	19:09:00		17506	230061	Grumpz	now to do a backup of the sysnand
+471	07/17/20	19:09:02		17506	230061	Grumpz	fuck
+472	07/17/20	19:09:19		16923	47101	SlyAlligator	whats wrong
+473	07/17/20	19:09:28		17506	230061	Grumpz	nothin
+474	07/17/20	19:09:35		17506	230061	Grumpz	also i might have to go
+475	07/17/20	19:09:37		16923	47101	SlyAlligator	i made a door without jvs
+476	07/17/20	19:09:40		16923	47101	SlyAlligator	why
+477	07/17/20	19:09:41		17506	230061	Grumpz	but ill be on msn
+478	07/17/20	19:09:44		16923	47101	SlyAlligator	dang
+479	07/17/20	19:09:45		17506	230061	Grumpz	bedtime
+480	07/17/20	19:09:47		17506	230061	Grumpz	well
+481	07/17/20	19:09:50		17506	230061	Grumpz	roomtime
+482	07/17/20	19:09:52		16923	47101	SlyAlligator	image using msn on bedtime
+483	07/17/20	19:14:11		17506	230061	Grumpz	not hard to imagine in the 200s
+484	07/17/20	19:14:15		17506	230061	Grumpz	2000s
+485	07/17/20	19:14:27		16923	47101	SlyAlligator	fun fact
+486	07/17/20	19:14:29		17506	230061	Grumpz	chaztv crt
+487	07/17/20	19:14:29		16923	47101	SlyAlligator	the poster changes colros
+488	07/17/20	19:14:42		16923	47101	SlyAlligator	you saw that the poster changed into yellow?
+489	07/17/20	19:14:49		17506	230061	Grumpz	?
+490	07/17/20	19:14:58		17506	230061	Grumpz	i dont see anything but the same poster
+491	07/17/20	19:15:52		17506	230061	Grumpz	what do you mean it changes
+492	07/17/20	19:15:59		16923	47101	SlyAlligator	look at the fucking poster
+493	07/17/20	19:16:05		17506	230061	Grumpz	its not changing
+494	07/17/20	19:16:08		16923	47101	SlyAlligator	imma go into the free robux thing
+495	07/17/20	19:16:22		16923	47101	SlyAlligator	i died then it changed to green
+496	07/17/20	19:16:34		16923	47101	SlyAlligator	then i hit the FUCK waves
+497	07/17/20	19:16:40		17506	230061	Grumpz	wait
+498	07/17/20	19:16:40		16923	47101	SlyAlligator	the poster changes color yet again
+499	07/17/20	19:16:42		17506	230061	Grumpz	this?
+500	07/17/20	19:16:55		16923	47101	SlyAlligator	then i
+501	07/17/20	19:17:00		17506	230061	Grumpz	i thought you were talking about the sly one
+502	07/17/20	19:17:01		17506	230061	Grumpz	OH
+503	07/17/20	19:17:03		16923	47101	SlyAlligator	then i try going into pablo's house and the poster changes into blue
+504	07/17/20	19:18:42		16923	47101	SlyAlligator	i removed 2003page advert due to propheo being shutdown
+505	07/17/20	19:18:43		16923	47101	SlyAlligator	like 2 days ago
+506	07/17/20	19:19:57		16923	47101	SlyAlligator	laglgalgl
+507	07/17/20	19:23:56		17506	230061	Grumpz	tin a bit i gtg to my room cause dads going to bed
+508	07/17/20	19:24:04		16923	47101	SlyAlligator	wdym with tin
+509	07/17/20	19:24:06		17506	230061	Grumpz	but i will still work on my 2ds
+510	07/17/20	19:24:08		17506	230061	Grumpz	in*
+511	07/17/20	19:24:14		17506	230061	Grumpz	and ill be on msn to chat
+512	07/17/20	19:24:18		16923	47101	SlyAlligator	k
+513	07/17/20	19:24:19		17506	230061	Grumpz	when do you gtg?
+514	07/17/20	19:24:24		16923	47101	SlyAlligator	probably soon
+515	07/17/20	19:24:27		17506	230061	Grumpz	k
+516	07/17/20	19:24:30		16923	47101	SlyAlligator	around midnight
+517	07/17/20	19:27:25		17506	230061	Grumpz	peekaboo
+518	07/17/20	19:27:36		17506	230061	Grumpz	woohoo
+519	07/17/20	19:30:36		16923	47101	SlyAlligator	honestly here's the shecudle for freebuild/chitchat
+520	07/17/20	19:30:52		16923	47101	SlyAlligator	i'll send it over msn
+521	07/17/20	19:36:45		16923	47101	SlyAlligator	i sent you the shedcule
+522	07/17/20	19:37:38		17506	230061	Grumpz	aaaa im bleeding
+523	07/17/20	19:37:49		17506	230061	Grumpz	your bloody now
+524	07/17/20	19:37:52		16923	47101	SlyAlligator	stop
+525	07/17/20	19:38:32		17506	230061	Grumpz	well brb
+526	07/17/20	19:38:40		17506	230061	Grumpz	im going offline for a bit soon
+527	07/17/20	19:38:50		17506	230061	Grumpz	but ill be back
+529	07/17/20	19:40:16		16923	47101	SlyAlligator	k
+533	07/18/20	11:28:08		27057	47101	SlyAlligator	holy shit
+534	07/18/20	11:28:09		27057	47101	SlyAlligator	<a:twitter.com/Parappafan94/status/1284214894271791104>twitter.com/Parappafan94/status/1284214894271791104</a>
+535	07/18/20	11:28:17		27057	47101	SlyAlligator	373 hearts
+536	07/18/20	11:32:46		27057	47101	SlyAlligator	never gonna say goodbye
+537	07/18/20	11:32:48		27057	47101	SlyAlligator	*slience*
+538	07/18/20	11:32:48		27057	47101	SlyAlligator	V
+539	07/18/20	11:38:55		27828	230061	Grumpz	?
+540	07/18/20	11:40:27		27057	47101	SlyAlligator	lag
+541	07/18/20	11:41:22		27828	230061	Grumpz	what are some good homebrew apps
+542	07/18/20	11:41:24		27057	47101	SlyAlligator	idfk
+543	07/18/20	11:41:29		27828	230061	Grumpz	what do you have
+544	07/18/20	11:44:36		27057	47101	SlyAlligator	idk
+545	07/18/20	11:48:34		27057	47101	SlyAlligator	cya
+546	07/18/20	11:48:36		27057	47101	SlyAlligator	nm
+547	07/18/20	11:48:56		27057	47101	SlyAlligator	ok
+548	07/18/20	11:48:57		27057	47101	SlyAlligator	NO
+549	07/18/20	11:48:58		27057	47101	SlyAlligator	NO
+550	07/18/20	11:49:01		27057	47101	SlyAlligator	YFUCKING DON
+551	07/18/20	11:49:24		27828	230061	Grumpz	whats the black line for
+552	07/18/20	11:49:27		27057	47101	SlyAlligator	idk
+553	07/18/20	11:50:30		27828	230061	Grumpz	im bouncin
+554	07/18/20	11:51:11		27057	47101	SlyAlligator	why the fuck does youtube think the simpsons is a children;s show
+555	07/18/20	11:51:23		27057	47101	SlyAlligator	i fucking got recommended cocomelon while watching a simpsons clip
+556	07/18/20	11:51:28		27828	230061	Grumpz	im a child
+557	07/18/20	11:51:33		27828	230061	Grumpz	i watch the simpsons
+558	07/18/20	11:51:39		27828	230061	Grumpz	you watch the simpsons
+559	07/18/20	11:51:42		27828	230061	Grumpz	you are a child
+560	07/18/20	11:51:44		27057	47101	SlyAlligator	fuck off
+561	07/18/20	11:51:45		27828	230061	Grumpz	but why tho
+562	07/18/20	11:51:55		27057	47101	SlyAlligator	it's clips from the calssic seasons
+563	07/18/20	11:51:58		27057	47101	SlyAlligator	not the HD bullshit
+564	07/18/20	11:52:16		27828	230061	Grumpz	i own some of those seasons on DVD
+565	07/18/20	11:53:01		27828	230061	Grumpz	let me tell you something
+566	07/18/20	11:53:04		27057	47101	SlyAlligator	ok
+567	07/18/20	11:53:09		27828	230061	Grumpz	fpt server for 3ds is like an essential
+568	07/18/20	11:53:12		27828	230061	Grumpz	ftp*
+569	07/18/20	11:53:14		27057	47101	SlyAlligator	true
+570	07/18/20	11:53:15		27057	47101	SlyAlligator	i have it
+571	07/18/20	11:53:17		27828	230061	Grumpz	same
+572	07/18/20	11:53:19		27828	230061	Grumpz	its awesome
+573	07/18/20	11:53:57		27828	230061	Grumpz	especially when im using my laptop and im listening to music and wanna install homebrew (i have my music on an sd card)
+574	07/18/20	11:53:57		27828	230061	Grumpz	oh and my main doesnt have a reader
+575	07/18/20	11:54:04		27828	230061	Grumpz	that was a perfect split
+576	07/18/20	11:54:06		27828	230061	Grumpz	lol
+577	07/18/20	11:54:10		27828	230061	Grumpz	i didnt do that
+578	07/18/20	11:56:06		27828	230061	Grumpz	too bad i have the cheese wedge 2ds
+579	07/18/20	11:56:35		27828	230061	Grumpz	what ds do you have?
+580	07/18/20	11:57:53		27828	230061	Grumpz	what ds do you have?
+581	07/18/20	11:58:01		27057	47101	SlyAlligator	three standard 3ds
+582	07/18/20	11:58:03		27057	47101	SlyAlligator	damaged new 3ds xl
+583	07/18/20	11:58:06		27828	230061	Grumpz	nice
+584	07/18/20	11:58:15		27828	230061	Grumpz	i just have 1 2ds
+585	07/18/20	11:58:27		27828	230061	Grumpz	got it on black friday of 2017
+586	07/18/20	11:58:37		27828	230061	Grumpz	few weeks after miiverse went bye bye
+587	07/18/20	11:59:20		27057	47101	SlyAlligator	brb
+588	07/18/20	11:59:28		27828	230061	Grumpz	well
+589	07/18/20	11:59:36		27828	230061	Grumpz	i got it on thanksgiving
+590	07/18/20	12:03:17		27057	47101	SlyAlligator	i had a idea
+591	07/18/20	12:03:27		27057	47101	SlyAlligator	v1.03 freebuild
+592	07/18/20	12:03:28		27057	47101	SlyAlligator	default
+593	07/18/20	12:03:56		27828	230061	Grumpz	might be fun
+594	07/18/20	12:05:16		27057	47101	SlyAlligator	i'm setting up xming
+595	07/18/20	12:05:19		27828	230061	Grumpz	for what
+596	07/18/20	12:05:28		27057	47101	SlyAlligator	server
+597	07/18/20	12:05:29		27828	230061	Grumpz	wait whats my username
+598	07/18/20	12:05:32		27828	230061	Grumpz	on the server
+599	07/18/20	12:05:34		27057	47101	SlyAlligator	grumpz
+600	07/18/20	12:05:36		27057	47101	SlyAlligator	dont fuck it up
+601	07/18/20	12:05:37		27057	47101	SlyAlligator	you're admin
+602	07/18/20	12:05:44		27828	230061	Grumpz	muahahahaha im admin
+603	07/18/20	12:05:57		27828	230061	Grumpz	i will give your server a parrot
+604	07/18/20	12:06:14		27057	47101	SlyAlligator	btw the fuck! thing works better
+605	07/18/20	12:10:53		27057	47101	SlyAlligator	lag
+606	07/18/20	12:13:17		27828	230061	Grumpz	wait
+607	07/18/20	12:13:23		27828	230061	Grumpz	will i get xming access
+608	07/18/20	12:13:56		27828	230061	Grumpz	hey
+609	07/18/20	12:14:00		27828	230061	Grumpz	will i get a desktop
+610	07/18/20	12:14:03		27057	47101	SlyAlligator	idk
+611	07/18/20	12:14:12		27828	230061	Grumpz	or am i stuck in the terminal
+612	07/18/20	12:14:20		27057	47101	SlyAlligator	shit isn't done yet
+613	07/18/20	12:14:44		27057	47101	SlyAlligator	ifucked up the FUCK! thing
+614	07/18/20	12:15:56		27057	47101	SlyAlligator	fuck you lag
+615	07/18/20	12:16:23		27828	230061	Grumpz	bei tongfang
+616	07/18/20	12:16:36		27828	230061	Grumpz	aka windows 98 for ned
+617	07/18/20	12:16:39		27828	230061	Grumpz	nes*
+618	07/18/20	12:16:45		27828	230061	Grumpz	i got it on my 3ds
+619	07/18/20	12:16:48		27828	230061	Grumpz	yes
+620	07/18/20	12:16:56		27828	230061	Grumpz	windows 98 for nes on a 2ds
+621	07/18/20	12:17:04		27057	47101	SlyAlligator	dont build anything in this place
+622	07/18/20	12:19:00		27828	230061	Grumpz	i might go for a while
+623	07/18/20	12:19:02		27828	230061	Grumpz	but first
+624	07/18/20	12:19:08		27828	230061	Grumpz	im gonna build something
+625	07/18/20	12:20:14		27057	47101	SlyAlligator	iu fucked up the chaztv
+626	07/18/20	12:20:17		27057	47101	SlyAlligator	imma fix its organs
+627	07/18/20	12:20:59		27828	230061	Grumpz	meh
+628	07/18/20	12:21:00		27057	47101	SlyAlligator	lag
+629	07/18/20	12:21:01		27828	230061	Grumpz	looks ok
+630	07/18/20	12:22:56		27057	47101	SlyAlligator	i took off most of the chaztv
+631	07/18/20	12:25:08		27057	47101	SlyAlligator	imma do prototyping chaztv
+632	07/18/20	12:25:23		27828	230061	Grumpz	undulo doesnt work
+633	07/18/20	12:25:32		27057	47101	SlyAlligator	your gpu
+634	07/18/20	12:25:35		27828	230061	Grumpz	???
+635	07/18/20	12:25:42		27057	47101	SlyAlligator	check your fucking settings
+636	07/18/20	12:25:42		27828	230061	Grumpz	what about it
+637	07/18/20	12:25:50		27828	230061	Grumpz	what do i check
+638	07/18/20	12:25:54		27057	47101	SlyAlligator	YOUR BL SETTINGSA
+639	07/18/20	12:26:11		27828	230061	Grumpz	oh
+640	07/18/20	12:28:12		27828	230061	Grumpz	pool
+641	07/18/20	12:30:52		27057	47101	SlyAlligator	ehat's the help command for the dulicatoer
+642	07/18/20	12:31:09		27828	230061	Grumpz	dont know
+643	07/18/20	12:31:14		27828	230061	Grumpz	never asked
+644	07/18/20	12:32:23		27828	230061	Grumpz	i might go soon but i will be back before 1 hour and 30 mins
+645	07/18/20	12:32:27		27057	47101	SlyAlligator	ko
+646	07/18/20	12:32:29		27828	230061	Grumpz	and if im not
+647	07/18/20	12:32:31		27057	47101	SlyAlligator	i'm working on new chaztv
+648	07/18/20	12:32:36		27828	230061	Grumpz	if im not
+649	07/18/20	12:32:41		27828	230061	Grumpz	choose a punishment
+650	07/18/20	12:32:56		27057	47101	SlyAlligator	:)
+651	07/18/20	12:32:57		27828	230061	Grumpz	or not idc
+652	07/18/20	12:33:02		27057	47101	SlyAlligator	i already have my idea
+653	07/18/20	12:33:05		27828	230061	Grumpz	what
+654	07/18/20	12:33:17		27057	47101	SlyAlligator	you will regret
+655	07/18/20	12:33:22		27828	230061	Grumpz	k
+657	07/18/20	12:33:26		27057	47101	SlyAlligator	lol
+660	07/18/20	16:26:19		38565	47101	SlyAlligator	laggo
+661	07/18/20	16:37:34		38565	47101	SlyAlligator	!<
+662	07/18/20	16:46:41		38565	47101	SlyAlligator	lag
+664	07/18/20	17:01:30		38565	47101	SlyAlligator	yo
+665	07/18/20	17:02:04		47544	230061	Grumpz	chaztv OLED
+666	07/18/20	17:02:13		47544	230061	Grumpz	worlds best blockland tv
+667	07/18/20	17:02:14		47544	230061	Grumpz	wait
+668	07/18/20	17:02:58		47544	230061	Grumpz	chaztv LED SMART TV! ITS GOT MORE SHIT ON THE GUIDE BUY NOW ONLY $67690478924309605249862
+669	07/18/20	17:03:06		47544	230061	Grumpz	best blockland tv
+670	07/18/20	17:03:46		47544	230061	Grumpz	best tv
+671	07/18/20	17:04:41		47544	230061	Grumpz	what kind of screen is this
+672	07/18/20	17:04:45		38565	47101	SlyAlligator	brick screen
+673	07/18/20	17:04:56		47544	230061	Grumpz	its the all new BRICK SCREEN 3
+674	07/18/20	17:05:09		47544	230061	Grumpz	beautiful
+675	07/18/20	17:07:19		47544	230061	Grumpz	this thing picks up more channels and its just $9853529356723786243095643260598467329824639572349 with a $5432 monthly f
+676	07/18/20	17:07:19		47544	230061	Grumpz	ee for service
+677	07/18/20	17:07:31		47544	230061	Grumpz	i like it
+678	07/18/20	17:07:34		38565	47101	SlyAlligator	you can't
+679	07/18/20	17:07:42		38565	47101	SlyAlligator	look at the SLyAlligator channel
+680	07/18/20	17:07:49		38565	47101	SlyAlligator	4th channel in the list
+681	07/18/20	17:07:54		47544	230061	Grumpz	what
+682	07/18/20	17:07:58		38565	47101	SlyAlligator	yes
+683	07/18/20	17:08:06		47544	230061	Grumpz	what about it
+684	07/18/20	17:08:13		38565	47101	SlyAlligator	"warn and full"
+685	07/18/20	17:08:18		38565	47101	SlyAlligator	and it's the sly the alligator channel
+686	07/18/20	17:10:38		47544	230061	Grumpz	i fucking hate those whateverVSTrump
+687	07/18/20	17:10:39		47544	230061	Grumpz	ads
+688	07/18/20	17:12:37		47544	230061	Grumpz	?
+689	07/18/20	17:13:54		47544	230061	Grumpz	what game consoles do you have?
+690	07/18/20	17:14:42		47544	230061	Grumpz	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+691	07/18/20	17:14:46		47544	230061	Grumpz	best tv show
+692	07/18/20	17:15:08		47544	230061	Grumpz	MONO SPEAKERS
+693	07/18/20	17:15:11		47544	230061	Grumpz	WHAT THE FUCK
+694	07/18/20	17:15:18		47544	230061	Grumpz	THIS AINT WORTH $0973498236793257892456783947209353246579405943265
+695	07/18/20	17:15:25		47544	230061	Grumpz	ITS WORTH A DOLLAR
+696	07/18/20	17:15:40		47544	230061	Grumpz	thicc glass
+697	07/18/20	17:16:58		47544	230061	Grumpz	wheres the back panel
+698	07/18/20	17:18:17		47544	230061	Grumpz	how many inches is this tv?
+699	07/18/20	17:18:20		47544	230061	Grumpz	i wanna buy it
+700	07/18/20	17:18:20		38565	47101	SlyAlligator	idk
+701	07/18/20	17:18:30		47544	230061	Grumpz	sell this tv to me
+702	07/18/20	17:19:34		47544	230061	Grumpz	what are you doing
+703	07/18/20	17:19:37		38565	47101	SlyAlligator	chaztv durable
+704	07/18/20	17:19:54		47544	230061	Grumpz	put some thick gorrilla glass on it
+705	07/18/20	17:19:57		47544	230061	Grumpz	and some plastic
+706	07/18/20	17:20:05		47544	230061	Grumpz	for scratch resistance
+707	07/18/20	17:21:15		38565	47101	SlyAlligator	move otu
+708	07/18/20	17:21:27		47544	230061	Grumpz	this tv needs to be bomb proof
+709	07/18/20	17:21:30		38565	47101	SlyAlligator	ik
+710	07/18/20	17:21:44		47544	230061	Grumpz	also i want it to be waterproof
+711	07/18/20	17:21:48		38565	47101	SlyAlligator	can
+712	07/18/20	17:21:49		47544	230061	Grumpz	i watch tv in the pool
+713	07/18/20	17:21:50		38565	47101	SlyAlligator	cant
+714	07/18/20	17:21:52		47544	230061	Grumpz	why
+715	07/18/20	17:22:24		47544	230061	Grumpz	why
+716	07/18/20	17:23:16		47544	230061	Grumpz	whats the green stuff
+717	07/18/20	17:23:22		38565	47101	SlyAlligator	prototyping
+718	07/18/20	17:24:17		38565	47101	SlyAlligator	oohohohoho
+719	07/18/20	17:24:40		38565	47101	SlyAlligator	move out
+720	07/18/20	17:24:51		47544	230061	Grumpz	dont want fingerprints when building
+721	07/18/20	17:24:58		47544	230061	Grumpz	whats this
+722	07/18/20	17:25:00		47544	230061	Grumpz	glass?
+723	07/18/20	17:25:08		38565	47101	SlyAlligator	MOVE
+724	07/18/20	17:25:09		38565	47101	SlyAlligator	OUT
+725	07/18/20	17:25:45		47544	230061	Grumpz	wtf
+726	07/18/20	17:25:49		47544	230061	Grumpz	the glass survived
+727	07/18/20	17:26:02		47544	230061	Grumpz	i guess the pixels burnt up
+728	07/18/20	17:27:10		38565	47101	SlyAlligator	laggogogogo
+729	07/18/20	17:27:14		38565	47101	SlyAlligator	i see
+730	07/18/20	17:28:23		47544	230061	Grumpz	even thicker tv
+731	07/18/20	17:28:32		47544	230061	Grumpz	thin tv is weak
+732	07/18/20	17:28:36		47544	230061	Grumpz	thicc tv is strong
+733	07/18/20	17:28:50		47544	230061	Grumpz	i could snap the thin version in half with my bare hands
+734	07/18/20	17:29:12		47544	230061	Grumpz	you cant punch the screen and break it
+735	07/18/20	17:29:20		47544	230061	Grumpz	this screen aint gonna break
+736	07/18/20	17:29:23		47544	230061	Grumpz	but
+737	07/18/20	17:29:32		47544	230061	Grumpz	the back needs to be equally strong
+738	07/18/20	17:29:40		47544	230061	Grumpz	to protect from back attacks
+739	07/18/20	17:30:37		47544	230061	Grumpz	looks likt a projection tv with weak bulbs
+740	07/18/20	17:33:25		47544	230061	Grumpz	still not bombproof
+741	07/18/20	17:35:08		47544	230061	Grumpz	we need invisible glass
+742	07/18/20	17:35:16		38565	47101	SlyAlligator	unrealistic
+743	07/18/20	17:35:18		47544	230061	Grumpz	for durability
+744	07/18/20	17:35:24		47544	230061	Grumpz	its blockland
+745	07/18/20	17:35:29		47544	230061	Grumpz	its not realistic
+746	07/18/20	17:36:51		38565	47101	SlyAlligator	grumpz move out
+747	07/18/20	17:37:01		38565	47101	SlyAlligator	ty
+748	07/18/20	17:37:17		38565	47101	SlyAlligator	secret
+749	07/18/20	17:41:07		38565	47101	SlyAlligator	i had a idea for a blockland machiniai
+750	07/18/20	17:41:17		47544	230061	Grumpz	?
+751	07/18/20	17:41:25		38565	47101	SlyAlligator	where it's just some guys trying to destory this tv
+752	07/18/20	17:41:34		47544	230061	Grumpz	that would be short
+753	07/18/20	17:41:41		38565	47101	SlyAlligator	eh not really
+754	07/18/20	17:42:20		38565	47101	SlyAlligator	lagg
+755	07/18/20	17:46:03		38565	47101	SlyAlligator	hm
+756	07/18/20	17:48:42		38565	47101	SlyAlligator	fuc
+757	07/18/20	17:48:51		47544	230061	Grumpz	its good
+758	07/18/20	17:49:09		47544	230061	Grumpz	durable
+759	07/18/20	17:49:19		47544	230061	Grumpz	and good picture quality too
+760	07/18/20	17:49:38		38565	47101	SlyAlligator	back can't seem to protext it
+761	07/18/20	17:50:17		47544	230061	Grumpz	front glass is great
+762	07/18/20	17:51:58		38565	47101	SlyAlligator	hey grumpz
+763	07/18/20	17:52:05		38565	47101	SlyAlligator	whats the worst character of all time
+764	07/18/20	17:52:19		47544	230061	Grumpz	sandbag fucking sucks
+765	07/18/20	17:52:28		38565	47101	SlyAlligator	cartoon character
+766	07/18/20	17:52:46		47544	230061	Grumpz	caillu is a fucking asshole
+767	07/18/20	17:52:51		38565	47101	SlyAlligator	you're close
+768	07/18/20	17:52:58		47544	230061	Grumpz	barney is a pedo
+769	07/18/20	17:53:06		38565	47101	SlyAlligator	no
+770	07/18/20	17:53:10		38565	47101	SlyAlligator	he's a alhocolic
+771	07/18/20	17:53:11		47544	230061	Grumpz	he takes kids to the woods
+772	07/18/20	17:53:15		38565	47101	SlyAlligator	um
+773	07/18/20	17:53:21		38565	47101	SlyAlligator	i don't rememer any of thgis from the simpsons
+774	07/18/20	17:53:29		47544	230061	Grumpz	OHHHHHHHHHHH
+775	07/18/20	18:00:59		47544	230061	Grumpz	25 hours
+776	07/18/20	18:01:02		38565	47101	SlyAlligator	let me ddos this :)
+777	07/18/20	18:01:08		47544	230061	Grumpz	what
+778	07/18/20	18:02:18		47544	230061	Grumpz	whats your ip again send it over msn
+779	07/18/20	18:02:26		47544	230061	Grumpz	im fixing my putty profile
+780	07/18/20	18:05:23		47544	230061	Grumpz	the server has been on for 1 day 3 hours and about 11 mins
+781	07/18/20	18:06:36		47544	230061	Grumpz	i can find your specs on demand now
+782	07/18/20	18:06:42		47544	230061	Grumpz	also i installed neofetch
+783	07/18/20	18:06:46		47544	230061	Grumpz	for more info
+784	07/18/20	18:06:55		38565	47101	SlyAlligator	?
+785	07/18/20	18:06:59		47544	230061	Grumpz	neofetch
+786	07/18/20	18:07:04		38565	47101	SlyAlligator	ah
+787	07/18/20	18:07:11		47544	230061	Grumpz	its screenfetch but its got more stuff
+788	07/18/20	18:07:19		47544	230061	Grumpz	you still have screenfetch tho
+789	07/18/20	18:07:57		47544	230061	Grumpz	resolution 1920x1080?
+790	07/18/20	18:07:59		38565	47101	SlyAlligator	um
+791	07/18/20	18:08:00		47544	230061	Grumpz	is this on a tv?
+792	07/18/20	18:08:02		38565	47101	SlyAlligator	it's on 1600 x 900
+793	07/18/20	18:08:04		38565	47101	SlyAlligator	actually
+794	07/18/20	18:08:06		38565	47101	SlyAlligator	768p
+795	07/18/20	18:08:14		38565	47101	SlyAlligator	1360 x 768 p iirc
+796	07/18/20	18:08:20		47544	230061	Grumpz	neofetch says its on 1920x1080
+797	07/18/20	18:08:38		38565	47101	SlyAlligator	probably cause your session is on 1080p if it showed your display
+798	07/18/20	18:08:51		47544	230061	Grumpz	my monitor is 1600x900
+799	07/18/20	18:08:53		47544	230061	Grumpz	hbu
+800	07/18/20	18:09:01		38565	47101	SlyAlligator	which monitor of mine
+801	07/18/20	18:09:11		47544	230061	Grumpz	any of them
+802	07/18/20	18:09:16		38565	47101	SlyAlligator	my main is at 1050p
+803	07/18/20	18:09:20		47544	230061	Grumpz	wtf
+804	07/18/20	18:09:23		38565	47101	SlyAlligator	1600 x 1050
+805	07/18/20	18:09:26		38565	47101	SlyAlligator	i thnk
+806	07/18/20	18:09:32		47544	230061	Grumpz	ultrawide?
+807	07/18/20	18:09:40		38565	47101	SlyAlligator	it's 16:10
+808	07/18/20	18:09:43		47544	230061	Grumpz	ah
+809	07/18/20	18:09:46		38565	47101	SlyAlligator	slightly less resolution than 1080p
+810	07/18/20	18:13:22		38565	47101	SlyAlligator	hello?
+813	07/18/20	18:17:48		47544	230061	Grumpz	im testing lame ass super mario maker
+814	07/18/20	18:17:54		47544	230061	Grumpz	specifially my dumped one
+815	07/18/20	18:20:09		66573	47101	SlyAlligator	lag
+816	07/18/20	18:20:14		47544	230061	Grumpz	and mario kart 7 is stuck doing something
+817	07/18/20	18:20:28		47544	230061	Grumpz	specifically the dumped version im emulating
+818	07/18/20	18:22:19		66573	47101	SlyAlligator	so um
+819	07/18/20	18:22:19		66573	47101	SlyAlligator	<a:github.com/PF94/ChazizVEWebsite>github.com/PF94/ChazizVEWebsite</a>
+820	07/18/20	18:23:10		66573	47101	SlyAlligator	grumpz
+821	07/18/20	18:23:14		66573	47101	SlyAlligator	did you fucking changed my fucking password
+822	07/18/20	18:23:24		47544	230061	Grumpz	what
+823	07/18/20	18:23:37		47544	230061	Grumpz	what password
+824	07/18/20	18:23:43		66573	47101	SlyAlligator	nm i did a typo
+825	07/18/20	18:24:05		66573	47101	SlyAlligator	weans't it named scerenfethc>?
+826	07/18/20	18:24:10		47544	230061	Grumpz	?
+827	07/18/20	18:24:15		47544	230061	Grumpz	neofetch is what i added
+828	07/18/20	18:24:47		66573	47101	SlyAlligator	how do i find the fucking display system it uses
+829	07/18/20	18:24:55		47544	230061	Grumpz	whats wrong
+830	07/18/20	18:25:00		66573	47101	SlyAlligator	is it using x11 ro something else
+831	07/18/20	18:25:07		47544	230061	Grumpz	for what
+832	07/18/20	18:25:08		66573	47101	SlyAlligator	thats what i'm trying to figure out
+833	07/18/20	18:25:19		66573	47101	SlyAlligator	so that i can fucking use the computer without having to bother with VNC
+834	07/18/20	18:25:25		66573	47101	SlyAlligator	and bothering with a screen
+835	07/18/20	18:25:27		47544	230061	Grumpz	x11 is an automation system lol
+836	07/18/20	18:25:31		66573	47101	SlyAlligator	x11 display system
+837	07/18/20	18:25:33		47544	230061	Grumpz	ah
+838	07/18/20	18:25:43		66573	47101	SlyAlligator	x window system*
+839	07/18/20	18:32:18		47544	230061	Grumpz	im doing somthing real quick
+840	07/18/20	18:33:49		47544	230061	Grumpz	back
+841	07/18/20	18:36:40		66573	47101	SlyAlligator	hey um
+842	07/18/20	18:36:49		66573	47101	SlyAlligator	give me screenshot on msn of your ssh session
+843	07/18/20	18:36:51		66573	47101	SlyAlligator	if it's still up
+844	07/18/20	18:37:01		47544	230061	Grumpz	i closed it but i can repoen it
+845	07/18/20	18:37:24		47544	230061	Grumpz	what do you need
+846	07/18/20	18:37:34		66573	47101	SlyAlligator	try "vncserver"
+847	07/18/20	18:37:48		47544	230061	Grumpz	ti will need a password
+848	07/18/20	18:38:00		66573	47101	SlyAlligator	make a password
+849	07/18/20	18:38:08		66573	47101	SlyAlligator	probably use that vm password
+850	07/18/20	18:38:33		47544	230061	Grumpz	would you like to enter a view only password
+851	07/18/20	18:38:40		66573	47101	SlyAlligator	eh
+852	07/18/20	18:38:41		66573	47101	SlyAlligator	just do n
+853	07/18/20	18:38:46		66573	47101	SlyAlligator	aka no
+854	07/18/20	18:38:56		47544	230061	Grumpz	xauthority doesnt exist
+855	07/18/20	18:39:06		47544	230061	Grumpz	but it started
+856	07/18/20	18:39:13		66573	47101	SlyAlligator	>!>!>!!?!?!?!?!?L
+857	07/18/20	18:39:58		47544	230061	Grumpz	sent a screenshot
+858	07/18/20	18:46:25		66573	47101	SlyAlligator	iirc screen 1 is something like 5901
+859	07/18/20	18:46:36		47544	230061	Grumpz	but how do i connect
+860	07/18/20	18:46:39		47544	230061	Grumpz	just use the ip?
+861	07/18/20	18:46:43		47544	230061	Grumpz	or port too?
+862	07/18/20	18:46:44		66573	47101	SlyAlligator	still not ready yet
+863	07/18/20	18:58:17		66573	47101	SlyAlligator	fuck off
+864	07/18/20	18:58:18		66573	47101	SlyAlligator	im busy
+865	07/18/20	18:58:23		47544	230061	Grumpz	just checking
+866	07/18/20	19:02:07		66573	47101	SlyAlligator	why the fuck is every SINGLE FUCKING INSTRUCITON
+867	07/18/20	19:02:10		66573	47101	SlyAlligator	WRITTEN FOR UBUNTU
+868	07/18/20	19:02:38		47544	230061	Grumpz	because its popular
+869	07/18/20	19:03:29		66573	47101	SlyAlligator	ut;s normie shit
+870	07/18/20	19:07:46		66573	47101	SlyAlligator	your vnc might take a while to work
+871	07/18/20	19:07:49		47544	230061	Grumpz	k
+873	07/18/20	19:08:43		66573	47101	SlyAlligator	hi
+874	07/18/20	19:08:49		67835	40501	GaBazi	hello guys!
+875	07/18/20	19:08:53		66573	47101	SlyAlligator	whats up
+876	07/18/20	19:09:06		47544	230061	Grumpz	did you make an al quida base or something?
+877	07/18/20	19:09:23		66573	47101	SlyAlligator	i have no memeories of a al qedra base existing on this server
+878	07/18/20	19:09:29		66573	47101	SlyAlligator	memories*
+879	07/18/20	19:09:35		47544	230061	Grumpz	on mr squidwards
+880	07/18/20	19:10:50		66573	47101	SlyAlligator	oh yeah
+881	07/18/20	19:10:54		66573	47101	SlyAlligator	there some random bricks
+882	07/18/20	19:12:30		47544	230061	Grumpz	i found some secrets
+883	07/18/20	19:12:44		66573	47101	SlyAlligator	ngl i was going to add some addons later
+884	07/18/20	19:12:56		47544	230061	Grumpz	i found a secret house
+885	07/18/20	19:12:57		66573	47101	SlyAlligator	and remove "betterorbing"
+886	07/18/20	19:13:11		66573	47101	SlyAlligator	w]hat secret house
+887	07/18/20	19:13:24		66573	47101	SlyAlligator	here?
+888	07/18/20	19:13:26		47544	230061	Grumpz	yea
+889	07/18/20	19:17:19		47544	230061	Grumpz	ohh i remember who did that base at mr squidwards (i think)
+890	07/18/20	19:18:29		66573	47101	SlyAlligator	for some reason betterorbing is h aving a seizure
+891	07/18/20	19:18:59		66573	47101	SlyAlligator	i'm on my VNC and the wine console just has a betterorbing error
+892	07/18/20	19:19:17		47544	230061	Grumpz	so whats wrong with my vnc?
+893	07/18/20	19:19:22		66573	47101	SlyAlligator	isn't done yet
+894	07/18/20	19:19:24		47544	230061	Grumpz	ah
+895	07/18/20	19:20:39		66573	47101	SlyAlligator	<a:www.youtube.com/watch?v=KCaya74_NHw>www.youtube.com/watch?v=KCaya74_NHw</a>
+896	07/18/20	19:21:46		66573	47101	SlyAlligator	eh <a:www.youtube.com/watch?v=OvbmKlQqEwU>www.youtube.com/watch?v=OvbmKlQqEwU</a>
+897	07/18/20	19:23:12		66573	47101	SlyAlligator	anyways gabazi whats up
+898	07/18/20	19:23:38		47544	230061	Grumpz	bloody water
+899	07/18/20	19:24:10		67835	40501	GaBazi	not much really, i was playing v21 before, man, the comunity is sooo different from here
+900	07/18/20	19:24:24		67835	40501	GaBazi	it doesnt even seem like the "same" game
+901	07/18/20	19:24:45		47544	230061	Grumpz	wtf happened here
+902	07/18/20	19:25:07		47544	230061	Grumpz	umm
+903	07/18/20	19:25:11		47544	230061	Grumpz	the pools closed
+904	07/18/20	19:25:14		66573	47101	SlyAlligator	OH FUCK
+905	07/18/20	19:25:16		66573	47101	SlyAlligator	NOT THE AIDS
+906	07/18/20	19:25:25		67835	40501	GaBazi	pools closed due to aids
+907	07/18/20	19:25:32		66573	47101	SlyAlligator	in bedroom hotel
+908	07/18/20	19:25:36		47544	230061	Grumpz	the pools bleeding
+909	07/18/20	19:26:18		47544	230061	Grumpz	lets swim in the aids pool
+910	07/18/20	19:26:43		66573	47101	SlyAlligator	YAY
+911	07/18/20	19:26:44		66573	47101	SlyAlligator	AIDS
+912	07/18/20	19:28:31		66573	47101	SlyAlligator	:thinking:
+913	07/18/20	19:28:48		67835	40501	GaBazi	:egg:
+914	07/18/20	19:28:52		66573	47101	SlyAlligator	you look like the old man from that spammer animation that fliuple made
+915	07/18/20	19:28:55		66573	47101	SlyAlligator	fliple*
+916	07/18/20	19:29:00		66573	47101	SlyAlligator	"spamming is for losers"
+917	07/18/20	19:29:19		67835	40501	GaBazi	lmao i need to check xD its been a long time since last i saw his videos
+918	07/18/20	19:29:28		66573	47101	SlyAlligator	he remade that vid a few months ago
+919	07/18/20	19:29:36		66573	47101	SlyAlligator	on his "retro video remake" series or whatever it's named
+920	07/18/20	19:29:46		66573	47101	SlyAlligator	i'm hyped for the next version that will come out in 2024
+921	07/18/20	19:29:48		66573	47101	SlyAlligator	video*(
+922	07/18/20	19:29:55		67835	40501	GaBazi	chat spammers in a nutshell?
+923	07/18/20	19:30:02		67835	40501	GaBazi	imma watch it now on my phone
+924	07/18/20	19:30:25		66573	47101	SlyAlligator	yea
+925	07/18/20	19:30:31		66573	47101	SlyAlligator	i actually commented on chat spammers
+926	07/18/20	19:30:49		66573	47101	SlyAlligator	i commented "2014 chazpelo in a nutshell"
+927	07/18/20	19:30:57		47544	230061	Grumpz	IOJFPOIAWHNPIUGBPWUIEAFHPEWOIHDIAWBVIWAPOEEEEEEEEEEEEEEEEEEEEEEEE
+928	07/18/20	19:31:05		47544	230061	Grumpz	rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+929	07/18/20	19:31:14		47544	230061	Grumpz	i will drama you for this
+930	07/18/20	19:31:15		47544	230061	Grumpz	fuck
+931	07/18/20	19:31:22		47544	230061	Grumpz	i was banned from the forums
+932	07/18/20	19:31:31		47544	230061	Grumpz	HUIOGFHAWNO;KEOFGWAOUIEFNBWAHFnjqeoudgbqPNHOUPQnhfpogeawbfpuonawepoiugBEPUOFNWjofgubwanfopUBGFUInfoiHUIFBNo;ifjpheofhN
+934	07/18/20	19:32:02		66573	47101	SlyAlligator	illimaity confirmed
+935	07/18/20	19:32:04		47544	230061	Grumpz	the quick brown fox jumped over the lazy dogs
+936	07/18/20	19:32:12		47544	230061	Grumpz	AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+937	07/18/20	19:32:26		71108	47101	SlyAlligator	SOME BODY TOLD ME I WAS RAPE
+941	07/18/20	19:32:41		66573	47101	SlyAlligator	lol
+944	07/18/20	19:32:55		67835	40501	GaBazi	xD poor grumpz
+945	07/18/20	19:33:02		47544	230061	Grumpz	sad
+946	07/18/20	19:33:08		66573	47101	SlyAlligator	grumpz don't use more than 2 clients
+947	07/18/20	19:33:53		47544	230061	Grumpz	what dis
+948	07/18/20	19:34:08		67835	40501	GaBazi	imma build an egyptian temple lol
+949	07/18/20	19:34:16		66573	47101	SlyAlligator	i thought it was going to be one of those low-effort builds
+950	07/18/20	19:34:20		66573	47101	SlyAlligator	you know what i mean
+951	07/18/20	19:34:38		67835	40501	GaBazi	lmao yeah
+952	07/18/20	19:34:42		47544	230061	Grumpz	what?
+953	07/18/20	19:34:46		47544	230061	Grumpz	i think i know
+954	07/18/20	19:35:07		47544	230061	Grumpz	i thought it was avergae blockland spam building
+955	07/18/20	19:35:12		47544	230061	Grumpz	average
+956	07/18/20	19:35:37		66573	47101	SlyAlligator	almost heaven
+957	07/18/20	19:35:40		66573	47101	SlyAlligator	west virgina
+958	07/18/20	19:35:50		66573	47101	SlyAlligator	*insert others lyrics i don't remmeber*
+959	07/18/20	19:35:54		47544	230061	Grumpz	mountain mama
+960	07/18/20	19:35:57		47544	230061	Grumpz	take me home
+961	07/18/20	19:35:58		66573	47101	SlyAlligator	?!?!?
+962	07/18/20	19:36:00		47544	230061	Grumpz	country roads
+963	07/18/20	19:36:19		47544	230061	Grumpz	T R A M P O L I N E
+964	07/18/20	19:36:36		66573	47101	SlyAlligator	FUCK
+965	07/18/20	19:36:41		66573	47101	SlyAlligator	I DDINT FEEL INTO THE POOL
+966	07/18/20	19:37:33		47544	230061	Grumpz	i gtg to me room
+967	07/18/20	19:37:46		66573	47101	SlyAlligator	<a:sonichu.com/cwcki/File:LBPtroll2.jpg>sonichu.com/cwcki/File:LBPtroll2.jpg</a>
+968	07/18/20	19:37:48		66573	47101	SlyAlligator	foreshadowing
+969	07/18/20	19:37:59		47544	230061	Grumpz	i gtg but ill be on msn
+970	07/18/20	19:38:06		47544	230061	Grumpz	brb
+972	07/18/20	19:47:28		66573	47101	SlyAlligator	ngl i was expecting more people to be here
+973	07/18/20	19:47:50		67835	40501	GaBazi	becouse of the aniversary?
+974	07/18/20	19:47:53		66573	47101	SlyAlligator	yea
+975	07/18/20	19:48:00		66573	47101	SlyAlligator	i kinda prepareed
+976	07/18/20	19:48:10		66573	47101	SlyAlligator	making a parital retexture of the bedroom map
+977	07/18/20	19:48:14		66573	47101	SlyAlligator	adding more brick addons
+978	07/18/20	19:49:03		67835	40501	GaBazi	yeah. the dogfight server had a pretty decent number of ppl tho
+979	07/18/20	19:49:06		66573	47101	SlyAlligator	true
+980	07/18/20	19:49:11		66573	47101	SlyAlligator	i was kinda part of the VC
+981	07/18/20	19:49:16		67835	40501	GaBazi	i think they just went to sleep or something
+982	07/18/20	19:49:21		66573	47101	SlyAlligator	eh
+983	07/18/20	19:49:23		67835	40501	GaBazi	oh, was it fun?
+984	07/18/20	19:49:28		66573	47101	SlyAlligator	VC?
+985	07/18/20	19:49:32		66573	47101	SlyAlligator	it was just a bunch of like
+986	07/18/20	19:49:34		66573	47101	SlyAlligator	20-something year olds
+987	07/18/20	19:49:51		67835	40501	GaBazi	yeah, i have not joined there becouse my english is not that great lmao
+988	07/18/20	19:49:52		66573	47101	SlyAlligator	and then you had some autistic 13 year old fuckhead named Chazpelo/SlyAlligator trying to be part of the VC
+989	07/18/20	19:50:05		66573	47101	SlyAlligator	but my accent makes me have trouble saying some shit
+990	07/18/20	19:50:12		66573	47101	SlyAlligator	have*
+991	07/18/20	19:50:34		67835	40501	GaBazi	the accent also fucks me haha
+992	07/18/20	19:50:43		67835	40501	GaBazi	where are you from?
+993	07/18/20	19:50:47		66573	47101	SlyAlligator	quebec
+994	07/18/20	19:50:51		66573	47101	SlyAlligator	i have autism
+995	07/18/20	19:51:17		67835	40501	GaBazi	oh, for real? i havent even noticed tbh
+996	07/18/20	19:51:36		66573	47101	SlyAlligator	were you there in 2014
+997	07/18/20	19:51:39		66573	47101	SlyAlligator	i mean blockland v12
+998	07/18/20	19:51:41		66573	47101	SlyAlligator	v21*
+999	07/18/20	19:51:49		67835	40501	GaBazi	yeah, i joined in 2012
+1000	07/18/20	19:52:01		66573	47101	SlyAlligator	do you remember some little child acting fucked up
+1001	07/18/20	19:52:05		66573	47101	SlyAlligator	like in the years 2014 and 2015
+1002	07/18/20	19:52:25		66573	47101	SlyAlligator	kinda like fuzztoast today, but less trolly
+1003	07/18/20	19:52:34		66573	47101	SlyAlligator	just some child spending way too much time online
+1004	07/18/20	19:53:10		67835	40501	GaBazi	i mean, we all were just like that back then, it is kinda hard to remember just one
+1005	07/18/20	19:53:25		67835	40501	GaBazi	blockland had waaay more ppl back then
+1006	07/18/20	19:53:27		66573	47101	SlyAlligator	eh
+1007	07/18/20	19:53:41		66573	47101	SlyAlligator	that's because i wasn't frequenting blockland in 2016/2017/2018
+1008	07/18/20	19:53:56		66573	47101	SlyAlligator	i appeared for like 5 hours
+1009	07/18/20	19:53:58		66573	47101	SlyAlligator	and then disappeared
+1010	07/18/20	19:54:03		66573	47101	SlyAlligator	it wasn't until 2019 in which i was more active
+1011	07/18/20	19:54:27		67835	40501	GaBazi	oh, i see
+1012	07/18/20	19:55:07		66573	47101	SlyAlligator	i think my excuse for not playing blockland in for like 2 years was probably because the community was toxic
+1013	07/18/20	19:55:10		66573	47101	SlyAlligator	i don't get it how
+1014	07/18/20	19:55:59		67835	40501	GaBazi	it really was xD blocklands community had always been famous for that
+1015	07/18/20	19:56:30		66573	47101	SlyAlligator	ti mean
+1016	07/18/20	19:56:38		66573	47101	SlyAlligator	i think most of blockland's communtiy came from /v/
+1017	07/18/20	19:56:53		66573	47101	SlyAlligator	at least i can browse /v/
+1018	07/18/20	19:57:00		67835	40501	GaBazi	hmmm it does seem to be the case
+1019	07/18/20	19:57:08		66573	47101	SlyAlligator	and not be greeted by fucked up images compared to the more famous /b/
+1020	07/18/20	19:57:24		66573	47101	SlyAlligator	however why would the fuck a 13 year old child would post on 4chan
+1021	07/18/20	19:58:09		67835	40501	GaBazi	xD i can relate to that. Tho my poison was /x/
+1022	07/18/20	19:58:24		67835	40501	GaBazi	i loved scary stories when i was younger
+1023	07/18/20	19:58:29		67835	40501	GaBazi	still love tbh
+1024	07/18/20	19:59:21		66573	47101	SlyAlligator	honestly i'd love if i was ablew to make one of those forums/channel boards
+1025	07/18/20	19:59:30		66573	47101	SlyAlligator	but i'm a cheap fuck
+1026	07/18/20	19:59:52		66573	47101	SlyAlligator	i'd probably just have been some lame-ass discourse forum that'd be lagging too much
+1027	07/18/20	19:59:57		66573	47101	SlyAlligator	that it'll be shutdown in 6 hours lol
+1028	07/18/20	20:00:42		66573	47101	SlyAlligator	i mean i already have manjaro running
+1029	07/18/20	20:00:46		66573	47101	SlyAlligator	on some shitty 2015 computer
+1030	07/18/20	20:00:52		66573	47101	SlyAlligator	that is currently hosting this server
+1031	07/18/20	20:00:54		66573	47101	SlyAlligator	dedi*
+1032	07/18/20	20:01:43		67835	40501	GaBazi	yeah, hosting a lot of servers can be really hard for your computer
+1033	07/18/20	20:01:48		66573	47101	SlyAlligator	i mean
+1034	07/18/20	20:01:52		67835	40501	GaBazi	u still browse 4chan?
+1035	07/18/20	20:01:53		66573	47101	SlyAlligator	haswell i5 cpu
+1036	07/18/20	20:02:23		66573	47101	SlyAlligator	and no idon't browse 4chan
+1037	07/18/20	20:02:36		66573	47101	SlyAlligator	ngl a 13 year old browsing a channel board mostly compreised of 20-30 year olds is pretty weird
+1038	07/18/20	20:02:43		67835	40501	GaBazi	it is xD
+1039	07/18/20	20:02:53		67835	40501	GaBazi	and it is dangerous
+1040	07/18/20	20:03:37		66573	47101	SlyAlligator	for some reason youtubers always seem to make 2b2t and 4chan look like this "SUPER TOXIC TROLLY PLACE"
+1041	07/18/20	20:04:22		67835	40501	GaBazi	yes, 4chan really depends on the board tho. 2b2t... its been a long time since i last played minecraft so i dunno
+1042	07/18/20	20:05:15		66573	47101	SlyAlligator	eh
+1043	07/18/20	20:05:22		66573	47101	SlyAlligator	4channers and 2b2ters don't really like new players
+1044	07/18/20	20:05:56		66573	47101	SlyAlligator	espicially when you just only come there because internet historian (case of 4chan) and fitmc/salc1 (case of 2b2t)
+1045	07/18/20	20:06:10		67835	40501	GaBazi	that is true
+1046	07/18/20	20:06:44		66573	47101	SlyAlligator	ngl if only i was born like earlier
+1047	07/18/20	20:06:49		66573	47101	SlyAlligator	like a few years earlier
+1048	07/18/20	20:07:13		66573	47101	SlyAlligator	like
+1049	07/18/20	20:07:15		66573	47101	SlyAlligator	i dunno
+1050	07/18/20	20:07:18		66573	47101	SlyAlligator	5-10 years earlier?
+1051	07/18/20	20:07:44		66573	47101	SlyAlligator	i'd probably wouldn't have been this "autistic fuckhead that's going to fuck up in his life and end up being cwc 2"
+1052	07/18/20	20:08:03		67835	40501	GaBazi	lmao pretty sure you are not cwc 2 tho
+1053	07/18/20	20:08:25		66573	47101	SlyAlligator	ik
+1054	07/18/20	20:08:51		66573	47101	SlyAlligator	honestly if i make poor shitty decisions and keep feeding attention to the trolls
+1055	07/18/20	20:08:54		66573	47101	SlyAlligator	i'd prob become cwc 2
+1056	07/18/20	20:09:42		67835	40501	GaBazi	yeah, internet is a hostile place. If you cant cope with the bad side of it
+1057	07/18/20	20:09:50		67835	40501	GaBazi	it can really fuck a person up
+1058	07/18/20	20:09:54		67835	40501	GaBazi	just like cwc
+1059	07/18/20	20:10:05		66573	47101	SlyAlligator	like i fucking know about internet weirdos like cwc and pamperchu
+1060	07/18/20	20:10:22		66573	47101	SlyAlligator	and do you want to guess how old i was when i discovered them?
+1061	07/18/20	20:10:28		67835	40501	GaBazi	tell me
+1062	07/18/20	20:10:31		66573	47101	SlyAlligator	FUCKNIG 12
+1063	07/18/20	20:10:35		66573	47101	SlyAlligator	fucking*
+1064	07/18/20	20:10:38		67835	40501	GaBazi	damn
+1065	07/18/20	20:10:44		66573	47101	SlyAlligator	yeah i'm 13 1/2 rn
+1066	07/18/20	20:11:15		67835	40501	GaBazi	no children should have to go through this. it is messed up
+1067	07/18/20	20:11:46		66573	47101	SlyAlligator	wdym
+1068	07/18/20	20:12:04		67835	40501	GaBazi	having to see this side of the world at such a young age
+1069	07/18/20	20:12:10		66573	47101	SlyAlligator	well
+1070	07/18/20	20:12:15		66573	47101	SlyAlligator	you seet
+1071	07/18/20	20:12:18		66573	47101	SlyAlligator	i was never supervised that much
+1072	07/18/20	20:12:23		67835	40501	GaBazi	it isnt the most pleasant experience, that is for sure
+1073	07/18/20	20:12:42		66573	47101	SlyAlligator	iirc the last year that i was supervised was like
+1074	07/18/20	20:12:49		66573	47101	SlyAlligator	ethier 2012 (5) or 2013 (6)
+1075	07/18/20	20:13:08		66573	47101	SlyAlligator	eh
+1076	07/18/20	20:13:13		66573	47101	SlyAlligator	i honestly don't remember
+1077	07/18/20	20:13:21		66573	47101	SlyAlligator	this reminds me back in 2012
+1078	07/18/20	20:13:30		66573	47101	SlyAlligator	i was 5 just watching random shit like "if tf2 ran on windows 98"
+1079	07/18/20	20:14:04		66573	47101	SlyAlligator	and "stickman on crack"
+1080	07/18/20	20:14:38		66573	47101	SlyAlligator	and there was this one stickman animation that ended with the majora's mask moon doing a middle finger
+1081	07/18/20	20:14:42		66573	47101	SlyAlligator	while some eltric music was playing
+1082	07/18/20	20:15:05		66573	47101	SlyAlligator	eletric*
+1083	07/18/20	20:15:08		66573	47101	SlyAlligator	electric*
+1084	07/18/20	20:15:17		67835	40501	GaBazi	damn, not something a child should be seeing... you had to grow up really fast :/
+1085	07/18/20	20:15:30		66573	47101	SlyAlligator	i didn't knew this was a middle finger anyways
+1086	07/18/20	20:15:36		66573	47101	SlyAlligator	i thoguht the moon was just dancing or whatever
+1087	07/18/20	20:15:54		67835	40501	GaBazi	lmao better this way
+1088	07/18/20	20:17:35		66573	47101	SlyAlligator	this was 2012
+1089	07/18/20	20:17:38		66573	47101	SlyAlligator	in 2014 i discovered smg4
+1090	07/18/20	20:18:10		66573	47101	SlyAlligator	i don't remember when, but i think it was probably after i joined BL
+1091	07/18/20	20:19:04		66573	47101	SlyAlligator	anyways um
+1092	07/18/20	20:19:10		66573	47101	SlyAlligator	what kind of videos you were watching in 2012-2014?
+1093	07/18/20	20:19:53		67835	40501	GaBazi	mostly creepypastas and some minecraft gameplays lmao
+1094	07/18/20	20:20:00		66573	47101	SlyAlligator	oh yeah
+1095	07/18/20	20:20:05		66573	47101	SlyAlligator	i remember watcjing skydoesminecraft in 2013
+1096	07/18/20	20:20:32		67835	40501	GaBazi	yes xD i loved slamacows animations
+1097	07/18/20	20:20:34		67835	40501	GaBazi	the musics
+1098	07/18/20	20:20:41		67835	40501	GaBazi	it was a good community
+1099	07/18/20	20:20:50		66573	47101	SlyAlligator	i kinda have nostalgia for the years 2012 to 2013
+1100	07/18/20	20:21:00		66573	47101	SlyAlligator	my dad thinks it's due to my, um, i don't want to say it
+1101	07/18/20	20:21:53		67835	40501	GaBazi	what do you mean?
+1102	07/18/20	20:22:13		66573	47101	SlyAlligator	it's best if i don't asy it
+1103	07/18/20	20:22:24		67835	40501	GaBazi	oh, its okay
+1104	07/18/20	20:22:48		66573	47101	SlyAlligator	i mean it's [redacted]
+1105	07/18/20	20:23:02		66573	47101	SlyAlligator	now i'll have to redact this shit out once i publish the chat logs on 2003page
+1106	07/18/20	20:23:04		66573	47101	SlyAlligator	2003page.ga*
+1107	07/18/20	20:23:36		66573	47101	SlyAlligator	<a:2003page.ga/>2003page.ga/</a>
+1108	07/18/20	20:23:44		66573	47101	SlyAlligator	very incomplete site
+1109	07/18/20	20:25:37		66573	47101	SlyAlligator	weee
+1110	07/18/20	20:27:31		66573	47101	SlyAlligator	tbh
+1111	07/18/20	20:27:41		66573	47101	SlyAlligator	do you think this server will even be active
+1112	07/18/20	20:28:23		67835	40501	GaBazi	dont think too much about it, blockland is going through some hard times these days
+1113	07/18/20	20:28:34		66573	47101	SlyAlligator	eh
+1114	07/18/20	20:28:42		67835	40501	GaBazi	wait a few months, see how things will go
+1115	07/18/20	20:28:49		66573	47101	SlyAlligator	i'm prediciting that bl,ocland will die sometime in the mid-2020s
+1116	07/18/20	20:29:10		66573	47101	SlyAlligator	this game is like 13 years old
+1117	07/18/20	20:29:11		67835	40501	GaBazi	maybe not this year, but it really is dying for real this time
+1118	07/18/20	20:29:14		66573	47101	SlyAlligator	yeah
+1119	07/18/20	20:30:58		66573	47101	SlyAlligator	ngl i think the death of blockalnd started when rtb was shutdown
+1120	07/18/20	20:31:18		67835	40501	GaBazi	yes. also badsbot neglecting the shit out of this game
+1121	07/18/20	20:31:22		66573	47101	SlyAlligator	i mean
+1122	07/18/20	20:31:31		66573	47101	SlyAlligator	badspot's excuse is that the game is 13 years old
+1123	07/18/20	20:31:43		67835	40501	GaBazi	roblox is around the same age
+1124	07/18/20	20:31:53		66573	47101	SlyAlligator	actually 16 if you count pre-retail (v0002)
+1125	07/18/20	20:31:57		67835	40501	GaBazi	its a sandbox for fuck sake
+1126	07/18/20	20:32:08		67835	40501	GaBazi	it had so much potential
+1127	07/18/20	20:32:11		67835	40501	GaBazi	makes me sad
+1128	07/18/20	20:32:17		66573	47101	SlyAlligator	roblox was only actively updated because of a large playerbase that kept growing
+1129	07/18/20	20:32:32		66573	47101	SlyAlligator	if roblox's playerbase was the same size as blockland's
+1130	07/18/20	20:32:46		66573	47101	SlyAlligator	i think roblox would have largely b een the same as what it was in 2009/2010/2011
+1131	07/18/20	20:34:23		66573	47101	SlyAlligator	ngl idk hwo to exapnd my website
+1132	07/18/20	20:34:38		66573	47101	SlyAlligator	the two subsites in the website are pretty lacking
+1133	07/18/20	20:34:53		66573	47101	SlyAlligator	one of which used to be a edit of a old 2007 roblox web archive rip
+1134	07/18/20	20:35:33		66573	47101	SlyAlligator	i had a idea of a forum
+1135	07/18/20	20:35:46		66573	47101	SlyAlligator	however ethier I have more chances of getting DDOS'd
+1136	07/18/20	20:35:53		66573	47101	SlyAlligator	or i have to use one of those lame PHPBB free forum sites
+1137	07/18/20	20:36:28		67835	40501	GaBazi	hmm what is the forum gonna be about?
+1138	07/18/20	20:36:45		66573	47101	SlyAlligator	well considering the site is pretty much a spot for my shit
+1139	07/18/20	20:36:59		66573	47101	SlyAlligator	mainly my yt channel, sivityigans (which i postponed), and blockland shit
+1140	07/18/20	20:37:33		66573	47101	SlyAlligator	plus maybe other shit
+1141	07/18/20	20:38:31		66573	47101	SlyAlligator	phpbb and SMF are dated
+1142	07/18/20	20:38:38		66573	47101	SlyAlligator	i honestly just want to make a discourse forum
+1143	07/18/20	20:39:32		67835	40501	GaBazi	that would be nice, meeting other ppl online and stuff
+1144	07/18/20	20:39:35		66573	47101	SlyAlligator	yeah
+1145	07/18/20	20:39:42		66573	47101	SlyAlligator	but discourse is kinda costly
+1146	07/18/20	20:39:56		66573	47101	SlyAlligator	plus i'd have to make a VM because, well, i don't want to ditch manjaro for fucking debian/ubuntu.
+1147	07/18/20	20:41:00		66573	47101	SlyAlligator	i mean costly because
+1148	07/18/20	20:41:08		66573	47101	SlyAlligator	1. anti-ddos shit (cloudflare o rhwtaver it;s named)
+1149	07/18/20	20:41:13		66573	47101	SlyAlligator	2. enegry for the forum
+1150	07/18/20	20:41:36		67835	40501	GaBazi	it sure aint easy work
+1151	07/18/20	20:41:39		66573	47101	SlyAlligator	enegry consumption*
+1152	07/18/20	20:42:05		66573	47101	SlyAlligator	i told my idea to some guy (who i no longer trust anymore due to unrelated reasons) and he did not cared
+1153	07/18/20	20:42:15		66573	47101	SlyAlligator	that guy is hosting a discourse forum
+1154	07/18/20	20:42:21		66573	47101	SlyAlligator	that's pretty toxic btw
+1155	07/18/20	20:42:36		66573	47101	SlyAlligator	<a:wink.messengergeek.com/>wink.messengergeek.com/</a> is toxic shit
+1156	07/18/20	20:42:37		66573	47101	SlyAlligator	beware
+1157	07/18/20	20:43:44		67835	40501	GaBazi	thank you :D
+1158	07/18/20	20:43:52		66573	47101	SlyAlligator	owner of the forum doesn't give a absoulte shit about it's toxic userbase
+1159	07/18/20	20:44:12		66573	47101	SlyAlligator	moderator kinda barely does anything at all
+1160	07/18/20	20:45:11		66573	47101	SlyAlligator	honestly if a shitotn of trolls appear
+1161	07/18/20	20:45:13		66573	47101	SlyAlligator	htat'll be the end of the forum
+1162	07/18/20	20:45:33		67835	40501	GaBazi	jeez, that sucks e.e
+1163	07/18/20	20:45:49		66573	47101	SlyAlligator	eh
+1164	07/18/20	20:45:50		66573	47101	SlyAlligator	yeah
+1165	07/18/20	20:45:58		66573	47101	SlyAlligator	if i had a discoruse forum
+1166	07/18/20	20:46:01		66573	47101	SlyAlligator	i could moderate it better
+1167	07/18/20	20:47:28		66573	47101	SlyAlligator	i just don't know how to make a proper forum with proper hosting
+1168	07/18/20	20:47:32		66573	47101	SlyAlligator	that's all
+1169	07/18/20	20:48:27		66573	47101	SlyAlligator	gn
+1170	07/18/20	20:48:43		67835	40501	GaBazi	you going to sleep?
+1171	07/18/20	20:48:45		66573	47101	SlyAlligator	yea
+1172	07/18/20	20:48:47		66573	47101	SlyAlligator	it's 1 am est
+1173	07/18/20	20:49:05		66573	47101	SlyAlligator	btw what's your discotd
+1174	07/18/20	20:49:06		67835	40501	GaBazi	lmao, you really should go then. Thank you for the time here!
+1175	07/18/20	20:49:07		66573	47101	SlyAlligator	hurry
+1176	07/18/20	20:49:26		67835	40501	GaBazi	are you on kenkos group? just search for gabazi there
+1177	07/18/20	20:49:29		66573	47101	SlyAlligator	ah
+1178	07/18/20	20:49:39		66573	47101	SlyAlligator	added gn
+1179	07/18/20	20:49:42		67835	40501	GaBazi	gn!
+2	SERVER START	07/19/20	13:49:53	--------------------------
+5	07/19/20	13:57:27		4781	47101	SlyAlligator	FUCK
+6	07/19/20	13:57:28		4781	47101	SlyAlligator	THE FUCKING COLROSET
+7	07/19/20	13:57:30		4781	47101	SlyAlligator	JESUS FUCKING CHRIST
+8	07/19/20	13:57:33		4781	47101	SlyAlligator	STOP THIS SHIT
+2	SERVER START	07/19/20	14:01:24	--------------------------
+5	07/19/20	14:10:01		4782	47101	SlyAlligator	now i have to wait until this save loads
+6	07/19/20	14:10:12		4782	47101	SlyAlligator	and i loaded the slyper map for some reason
+7	07/19/20	14:12:05		4782	47101	SlyAlligator	great christ
+8	07/19/20	14:21:28		4782	47101	SlyAlligator	ugh
+9	07/19/20	14:31:38		4782	47101	SlyAlligator	fucking lag
+10	07/19/20	14:34:52		4782	47101	SlyAlligator	ugh
+11	07/19/20	14:36:00		4782	47101	SlyAlligator	how
+15	07/19/20	19:04:47		30795	230061	Grumpz	is this a texture hack
+16	07/19/20	19:04:53		30781	47101	SlyAlligator	this is my retexture
+17	07/19/20	19:04:56		30781	47101	SlyAlligator	incomplete
+18	07/19/20	19:04:58		30795	230061	Grumpz	looks nice so far
+19	07/19/20	19:05:10		30781	47101	SlyAlligator	look at the fuckign poster
+20	07/19/20	19:05:20		30795	230061	Grumpz	except for that
+21	07/19/20	19:05:32		30781	47101	SlyAlligator	did you looked
+22	07/19/20	19:05:36		30795	230061	Grumpz	yes
+23	07/19/20	19:05:36		30781	47101	SlyAlligator	it's the fucking slyper version
+24	07/19/20	19:05:41		30781	47101	SlyAlligator	LOL
+25	07/19/20	19:05:45		30781	47101	SlyAlligator	GORE GOT ENABLE
+26	07/19/20	19:05:50		30781	47101	SlyAlligator	REATED M FOR M
+27	07/19/20	19:06:06		30795	230061	Grumpz	im watching you
+28	07/19/20	19:06:29		30795	230061	Grumpz	NOOOO
+29	07/19/20	19:06:30		30795	230061	Grumpz	TUX
+30	07/19/20	19:06:32		30795	230061	Grumpz	NOOOOOOOOOOOOOOOOOOOOOOOOOOO
+31	07/19/20	19:06:37		30795	230061	Grumpz	*cries*
+32	07/19/20	19:08:19		30781	47101	SlyAlligator	<a:www.youtube.com/watch?v=3hX3_ZqQ3bc>www.youtube.com/watch?v=3hX3_ZqQ3bc</a>
+33	07/19/20	19:08:39		30781	47101	SlyAlligator	V
+34	07/19/20	19:08:50		30781	47101	SlyAlligator	grumpz you ehre?
+35	07/19/20	19:09:40		30795	230061	Grumpz	fly fly fly fly fly
+36	07/19/20	19:09:47		30795	230061	Grumpz	ow
+37	07/19/20	19:10:01		30781	47101	SlyAlligator	i can't really brainstorm sivityigans without the same fucking [redacted] idea appearing
+38	07/19/20	19:11:51		30781	47101	SlyAlligator	grumpz are you fucking here
+39	07/19/20	19:12:03		30795	230061	Grumpz	watching meet the spy but you made it
+40	07/19/20	19:12:08		30781	47101	SlyAlligator	eh
+41	07/19/20	19:12:12		30781	47101	SlyAlligator	i was going to ask you something
+42	07/19/20	19:12:37		30795	230061	Grumpz	oh
+43	07/19/20	19:12:41		30795	230061	Grumpz	i like this
+44	07/19/20	19:12:50		30781	47101	SlyAlligator	eh more about sivityigans
+45	07/19/20	19:12:53		30795	230061	Grumpz	what do you need to ask
+46	07/19/20	19:13:04		30781	47101	SlyAlligator	honestly before i make sivityians
+47	07/19/20	19:13:18		30781	47101	SlyAlligator	should i just write some shitty story about canberra and sly the alligator
+48	07/19/20	19:14:30		30795	230061	Grumpz	subcrible
+49	07/19/20	19:15:17		30781	47101	SlyAlligator	wdym
+50	07/19/20	19:15:35		30795	230061	Grumpz	you spelled it that way
+51	07/19/20	19:16:24		30795	230061	Grumpz	oh
+52	07/19/20	19:16:38		30781	47101	SlyAlligator	you checked msn>?
+53	07/19/20	19:16:40		30795	230061	Grumpz	yes
+54	07/19/20	19:16:45		30781	47101	SlyAlligator	<ah
+55	07/19/20	19:17:03		30781	47101	SlyAlligator	whats your response then
+56	07/19/20	19:17:25		30795	230061	Grumpz	idk
+57	07/19/20	19:18:05		30781	47101	SlyAlligator	eh
+58	07/19/20	19:18:10		30781	47101	SlyAlligator	i don't have any other ideas mate
+59	07/19/20	19:19:15		30781	47101	SlyAlligator	ngl that's going to be shit
+60	07/19/20	19:20:52		30781	47101	SlyAlligator	so yes or no
+61	07/19/20	19:20:58		30795	230061	Grumpz	isure
+62	07/19/20	19:21:01		30795	230061	Grumpz	sure
+63	07/19/20	19:21:07		30781	47101	SlyAlligator	great now i will have to write autism
+64	07/19/20	19:21:13		30781	47101	SlyAlligator	FURRY MOMENT
+65	07/19/20	19:21:15		30795	230061	Grumpz	do what you want
+66	07/19/20	19:21:29		30781	47101	SlyAlligator	mate the "yes or no" was about the shit i told you over msn
+67	07/19/20	19:21:58		30781	47101	SlyAlligator	great christ
+68	07/19/20	19:23:49		30781	47101	SlyAlligator	well then grumpz
+69	07/19/20	19:23:53		30795	230061	Grumpz	im flying
+70	07/19/20	19:23:56		30781	47101	SlyAlligator	you'll have to help me then
+71	07/19/20	19:24:01		30795	230061	Grumpz	with?
+72	07/19/20	19:24:09		30781	47101	SlyAlligator	the fucking shit i told you oN MSN
+73	07/19/20	19:24:10		30781	47101	SlyAlligator	aUIDSHu0ihfgawJdfuhsgdh
+74	07/19/20	19:24:15		30795	230061	Grumpz	HFIEUOAFHOIAWNEIBFAWNEOIFWMAEFUWGEABNODIWUEAFHWNAFIWOEAFGBWEAOIYFUNHWEIOUFOAN
+75	07/19/20	19:24:18		30781	47101	SlyAlligator	LOL
+76	07/19/20	19:24:27		30795	230061	Grumpz	theres the story right there
+77	07/19/20	19:24:32		30781	47101	SlyAlligator	no
+78	07/19/20	19:24:43		30795	230061	Grumpz	HEUIOAFNOWIEABBFNWIOEAFUWIOAEUFGB2Q0379HD203QJWU9A4BU83R2G83QR08y)79YH89^&&u*)_D57R6Fgt(8OUHJ9D40WY3F7H3JMNOFI3WYD9427QU
+79	07/19/20	19:24:43		30795	230061	Grumpz	DNIMJ[2I03QP9Y6D2783QJUFRK0-3Q49627Q3RY02J3QK9RY720Q9
+80	07/19/20	19:24:46		30795	230061	Grumpz	better?
+81	07/19/20	19:24:55		30781	47101	SlyAlligator	grumpz don't troll
+82	07/19/20	19:24:58		30781	47101	SlyAlligator	you aren't xpuser
+83	07/19/20	19:27:32		30795	230061	Grumpz	slow flying
+84	07/19/20	19:28:24		30795	230061	Grumpz	mayday mayday
+85	07/19/20	19:29:13		30795	230061	Grumpz	what are you doing
+86	07/19/20	19:29:45		30781	47101	SlyAlligator	grumpz
+87	07/19/20	19:29:50		30781	47101	SlyAlligator	how the fuck am i going to write the fanfic
+88	07/19/20	19:29:55		30795	230061	Grumpz	idk
+89	07/19/20	19:29:57		30781	47101	SlyAlligator	i mean
+90	07/19/20	19:30:01		30781	47101	SlyAlligator	[msn]
+91	07/19/20	19:30:21		30781	47101	SlyAlligator	check msn
+92	07/19/20	19:31:32		30795	230061	Grumpz	tim flying back
+93	07/19/20	19:32:18		30795	230061	Grumpz	keep it slow for a bit
+94	07/19/20	19:33:03		30795	230061	Grumpz	im close
+95	07/19/20	19:33:52		30795	230061	Grumpz	im at the window
+96	07/19/20	19:34:21		30795	230061	Grumpz	i have arrived
+97	07/19/20	19:35:01		30781	47101	SlyAlligator	im making a tas
+98	07/19/20	19:35:04		30781	47101	SlyAlligator	fake tas
+99	07/19/20	19:35:05		30781	47101	SlyAlligator	for a joke
+100	07/19/20	19:35:54		30781	47101	SlyAlligator	whatr
+101	07/19/20	19:35:59		30795	230061	Grumpz	durable tv
+102	07/19/20	19:36:15		30795	230061	Grumpz	i flew out to the middle of nowhere
+103	07/19/20	19:36:19		30795	230061	Grumpz	and now im back
+104	07/19/20	19:37:03		30781	47101	SlyAlligator	yes
+105	07/19/20	19:37:06		30781	47101	SlyAlligator	AIDS POOL
+106	07/19/20	19:37:19		30795	230061	Grumpz	lets go in the aids pool
+107	07/19/20	19:37:43		30781	47101	SlyAlligator	hey
+108	07/19/20	19:37:44		30781	47101	SlyAlligator	join my mg
+109	07/19/20	19:37:46		30781	47101	SlyAlligator	minigame
+110	07/19/20	19:37:59		30781	47101	SlyAlligator	NO IT'S FOR ROCKET JUMPING
+111	07/19/20	19:38:10		30781	47101	SlyAlligator	to out of the window
+112	07/19/20	19:38:27		30795	230061	Grumpz	AaAaAaAaAHHH
+113	07/19/20	19:38:36		30781	47101	SlyAlligator	i win
+114	07/19/20	19:38:41		30795	230061	Grumpz	fuck you
+115	07/19/20	19:38:46		30781	47101	SlyAlligator	:(
+116	07/19/20	19:38:50		30795	230061	Grumpz	jk
+117	07/19/20	19:38:58		30781	47101	SlyAlligator	gn
+118	07/19/20	19:39:01		30795	230061	Grumpz	gn
+119	07/19/20	19:39:02		30781	47101	SlyAlligator	imma write the fanfic tomorrwo
+126	07/20/20	18:50:17		34837	47101	SlyAlligator	tet
+127	07/20/20	18:51:23		34837	47101	SlyAlligator	yo grumpz
+128	07/20/20	18:51:27		34813	230061	Grumpz	tyo
+129	07/20/20	18:51:28		34837	47101	SlyAlligator	i have a idea
+130	07/20/20	18:51:31		34837	47101	SlyAlligator	a race
+131	07/20/20	18:51:42		34837	47101	SlyAlligator	join my mg but don't shoot me
+132	07/20/20	18:51:59		34837	47101	SlyAlligator	dont
+133	07/20/20	18:52:07		34837	47101	SlyAlligator	GEUMPZ
+134	07/20/20	18:52:08		34837	47101	SlyAlligator	I SAID DONT
+135	07/20/20	18:52:12		34837	47101	SlyAlligator	I SAID DONT
+136	07/20/20	18:52:17		34837	47101	SlyAlligator	I SAID DONT
+137	07/20/20	18:52:18		34813	230061	Grumpz	oh close
+138	07/20/20	18:52:24		34813	230061	Grumpz	I SAID DONT
+139	07/20/20	18:52:25		34837	47101	SlyAlligator	1
+140	07/20/20	18:52:27		34837	47101	SlyAlligator	2
+141	07/20/20	18:52:29		34837	47101	SlyAlligator	3
+142	07/20/20	18:52:29		34837	47101	SlyAlligator	go
+143	07/20/20	18:53:10		34837	47101	SlyAlligator	lap 1 done
+144	07/20/20	18:53:13		34837	47101	SlyAlligator	for me
+145	07/20/20	18:53:13		34813	230061	Grumpz	fuck
+146	07/20/20	18:54:00		34813	230061	Grumpz	lap 1 done for me
+147	07/20/20	18:54:11		34837	47101	SlyAlligator	LET'S RESET
+148	07/20/20	18:54:20		34837	47101	SlyAlligator	1
+149	07/20/20	18:54:20		34837	47101	SlyAlligator	2
+150	07/20/20	18:54:21		34837	47101	SlyAlligator	3
+151	07/20/20	18:54:22		34837	47101	SlyAlligator	go
+152	07/20/20	18:54:32		34837	47101	SlyAlligator	then once lap 1 is done
+153	07/20/20	18:54:34		34837	47101	SlyAlligator	dont kill
+154	07/20/20	18:54:40		34837	47101	SlyAlligator	just go back to spawn
+155	07/20/20	18:54:43		34837	47101	SlyAlligator	w/o orb
+156	07/20/20	18:55:31		34837	47101	SlyAlligator	lap 1 done
+157	07/20/20	18:55:34		34813	230061	Grumpz	same
+158	07/20/20	18:55:36		34813	230061	Grumpz	but i died
+159	07/20/20	18:55:40		34837	47101	SlyAlligator	so repeat it
+160	07/20/20	18:55:42		34837	47101	SlyAlligator	if you die
+161	07/20/20	18:55:45		34837	47101	SlyAlligator	you have to restart
+162	07/20/20	18:55:50		34813	230061	Grumpz	i wish this was faster honestly
+163	07/20/20	18:56:10		34837	47101	SlyAlligator	FUCK
+164	07/20/20	18:57:03		34837	47101	SlyAlligator	lets fight
+165	07/20/20	18:57:24		34837	47101	SlyAlligator	1-0
+166	07/20/20	18:57:50		34837	47101	SlyAlligator	-20
+167	07/20/20	18:57:52		34837	47101	SlyAlligator	2-0
+168	07/20/20	18:58:38		34837	47101	SlyAlligator	2-1
+169	07/20/20	18:58:55		34837	47101	SlyAlligator	3-1
+170	07/20/20	18:59:37		34837	47101	SlyAlligator	this doesn't count
+171	07/20/20	18:59:44		34837	47101	SlyAlligator	lagt
+172	07/20/20	18:59:53		34837	47101	SlyAlligator	still doesnt count
+173	07/20/20	19:00:17		34837	47101	SlyAlligator	grumpz were the f are you
+174	07/20/20	19:00:50		34813	230061	Grumpz	im in the room
+175	07/20/20	19:00:54		34837	47101	SlyAlligator	what room
+176	07/20/20	19:01:00		34837	47101	SlyAlligator	the fere robux ?
+177	07/20/20	19:01:04		34813	230061	Grumpz	yes
+178	07/20/20	19:01:04		34837	47101	SlyAlligator	doesnt count
+179	07/20/20	19:02:04		34813	230061	Grumpz	i saw that
+180	07/20/20	19:02:29		34837	47101	SlyAlligator	GRUMPZw
+181	07/20/20	19:02:36		34837	47101	SlyAlligator	you bastard where the fuck are you
+182	07/20/20	19:02:36		34813	230061	Grumpz	im in there somewhere
+183	07/20/20	19:02:44		34813	230061	Grumpz	haha jk im outside
+184	07/20/20	19:02:49		34837	47101	SlyAlligator	outside doesnt count
+185	07/20/20	19:02:51		34837	47101	SlyAlligator	now reset
+186	07/20/20	19:03:15		34837	47101	SlyAlligator	1-0
+187	07/20/20	19:04:27		34837	47101	SlyAlligator	outside doesn't coun
+188	07/20/20	19:04:29		34813	230061	Grumpz	you do realize i wasnt outside
+189	07/20/20	19:04:33		34813	230061	Grumpz	i was kidding
+190	07/20/20	19:04:41		34813	230061	Grumpz	and im not outside
+191	07/20/20	19:04:42		34837	47101	SlyAlligator	dont cheat
+192	07/20/20	19:04:44		34837	47101	SlyAlligator	dont go outsiode
+193	07/20/20	19:04:46		34837	47101	SlyAlligator	nor the free robux shtik
+194	07/20/20	19:04:58		34813	230061	Grumpz	im in the bedroom
+195	07/20/20	19:05:03		34837	47101	SlyAlligator	this sint pvp
+196	07/20/20	19:05:06		34837	47101	SlyAlligator	wtf is this
+197	07/20/20	19:05:26		34837	47101	SlyAlligator	grumpz dont use admin
+198	07/20/20	19:05:29		34837	47101	SlyAlligator	ont orb
+199	07/20/20	19:05:34		34813	230061	Grumpz	i didnt do shit
+200	07/20/20	19:05:38		34837	47101	SlyAlligator	dont cheat
+201	07/20/20	19:05:43		34837	47101	SlyAlligator	YOU USED ORB
+202	07/20/20	19:05:48	TEAM	34813	230061	Grumpz	68 owfhea098iohfwaioeunfoweaogfhwuieafjlwgeakfwea;
+203	07/20/20	19:05:58		34837	47101	SlyAlligator	dont use it
+204	07/20/20	19:06:06		34837	47101	SlyAlligator	0-1
+205	07/20/20	19:06:09		34837	47101	SlyAlligator	yes we reset
+207	07/20/20	19:06:21		34837	47101	SlyAlligator	grumpz
+209	07/20/20	19:06:40		34837	47101	SlyAlligator	great now i have to wait
+210	07/20/20	19:07:06		34837	47101	SlyAlligator	join my mg
+211	07/20/20	19:07:55		35246	230061	Grumpz	where the fuck are yoi
+212	07/20/20	19:08:18		34837	47101	SlyAlligator	1-0
+213	07/20/20	19:08:37		34837	47101	SlyAlligator	1-1
+214	07/20/20	19:08:52		34837	47101	SlyAlligator	?
+215	07/20/20	19:09:31		34837	47101	SlyAlligator	2-1
+216	07/20/20	19:09:42		34837	47101	SlyAlligator	202
+217	07/20/20	19:09:43		34837	47101	SlyAlligator	2-2
+218	07/20/20	19:09:46		35246	230061	Grumpz	pioyhwn'mPK: 5stxjh[O'QUD4R3Q0[OP43F3478UCE3NAM[PCFR3 CFRBNWKPIREUFJ[WEE jk
+219	07/20/20	19:09:59		35246	230061	Grumpz	"WEE"
+220	07/20/20	19:10:21		35246	230061	Grumpz	i think its harder to play slow
+221	07/20/20	19:10:23		34837	47101	SlyAlligator	3-2
+222	07/20/20	19:10:59		35246	230061	Grumpz	fuvk the aim
+223	07/20/20	19:11:01		35246	230061	Grumpz	HUWBEAFHIOUWAENBFIWEAA
+224	07/20/20	19:11:09		35246	230061	Grumpz	fuck
+225	07/20/20	19:11:13		34837	47101	SlyAlligator	3-3
+226	07/20/20	19:11:13		35246	230061	Grumpz	i hate this
+227	07/20/20	19:11:17		34837	47101	SlyAlligator	hey i want to do a vid
+228	07/20/20	19:11:21		34837	47101	SlyAlligator	a shitty vid
+229	07/20/20	19:11:23		35246	230061	Grumpz	are you doing it
+230	07/20/20	19:11:24		34837	47101	SlyAlligator	yes
+231	07/20/20	19:11:26		34837	47101	SlyAlligator	i amr ecording
+232	07/20/20	19:11:32		34837	47101	SlyAlligator	4-4
+233	07/20/20	19:11:34		34837	47101	SlyAlligator	lol
+234	07/20/20	19:11:59		34837	47101	SlyAlligator	4-5
+235	07/20/20	19:12:54		34837	47101	SlyAlligator	4-6
+236	07/20/20	19:12:59		34837	47101	SlyAlligator	the
+237	07/20/20	19:13:58		34837	47101	SlyAlligator	4-7
+238	07/20/20	19:14:08		34837	47101	SlyAlligator	whoever loses has to do something for the winnter bre
+239	07/20/20	19:14:11		34837	47101	SlyAlligator	winner btw*
+240	07/20/20	19:14:54		34837	47101	SlyAlligator	5-7
+241	07/20/20	19:15:30		34837	47101	SlyAlligator	6-6
+242	07/20/20	19:15:32		34837	47101	SlyAlligator	6-7*
+243	07/20/20	19:15:45		35246	230061	Grumpz	doesnt count
+244	07/20/20	19:15:47		34837	47101	SlyAlligator	ik
+245	07/20/20	19:16:19		34837	47101	SlyAlligator	?
+246	07/20/20	19:16:21		34837	47101	SlyAlligator	does it count or not
+247	07/20/20	19:16:25		35246	230061	Grumpz	idfk
+248	07/20/20	19:16:30		34837	47101	SlyAlligator	it doesnt
+249	07/20/20	19:17:00		34837	47101	SlyAlligator	HOLY
+250	07/20/20	19:17:04		35246	230061	Grumpz	SON OF  A BITCH
+251	07/20/20	19:17:05		34837	47101	SlyAlligator	6-8
+252	07/20/20	19:17:13		34837	47101	SlyAlligator	7-8
+253	07/20/20	19:17:24		35246	230061	Grumpz	AAAAAAAAAAAAAAAAAAAAAAA
+254	07/20/20	19:17:26		34837	47101	SlyAlligator	7-9
+255	07/20/20	19:17:31		34837	47101	SlyAlligator	8-9
+256	07/20/20	19:17:42		34837	47101	SlyAlligator	9-9
+257	07/20/20	19:18:42		34837	47101	SlyAlligator	10-9
+258	07/20/20	19:18:44		34837	47101	SlyAlligator	what should i do
+259	07/20/20	19:18:54		34837	47101	SlyAlligator	cause i lost mate
+260	07/20/20	19:18:57		35246	230061	Grumpz	make vnc work or make it a bit faster
+261	07/20/20	19:19:03		35246	230061	Grumpz	pick one
+262	07/20/20	19:19:03		34837	47101	SlyAlligator	no i won't bother with vnc
+263	07/20/20	19:19:21		34837	47101	SlyAlligator	fuck i was expecting something [redacted] >:(
+264	07/20/20	19:19:32		35246	230061	Grumpz	move the tower
+265	07/20/20	19:19:38		34837	47101	SlyAlligator	no
+266	07/20/20	19:19:39		35246	230061	Grumpz	i need it moved
+267	07/20/20	19:19:42		34837	47101	SlyAlligator	no
+268	07/20/20	19:19:43		34837	47101	SlyAlligator	slyper?
+269	07/20/20	19:19:44		35246	230061	Grumpz	i cant see that poster
+270	07/20/20	19:19:47		34837	47101	SlyAlligator	NO
+271	07/20/20	19:19:56		35246	230061	Grumpz	you wanted [redacted]
+272	07/20/20	19:20:04		34837	47101	SlyAlligator	outside of blockland
+273	07/20/20	19:20:22		35246	230061	Grumpz	hmm
+274	07/20/20	19:20:24		35246	230061	Grumpz	face reveal
+275	07/20/20	19:21:13		34837	47101	SlyAlligator	no
+276	07/20/20	19:21:17		34837	47101	SlyAlligator	father doesnt' allow me
+277	07/20/20	19:21:38		35246	230061	Grumpz	holy shit
+278	07/20/20	19:21:43		35246	230061	Grumpz	this is glitchy
+279	07/20/20	19:22:02		34837	47101	SlyAlligator	tbh what should i do then
+280	07/20/20	19:22:09		35246	230061	Grumpz	thinking
+281	07/20/20	19:23:05		34837	47101	SlyAlligator	like something weird
+282	07/20/20	19:23:07		34837	47101	SlyAlligator	or [redacted]
+283	07/20/20	19:23:18		35246	230061	Grumpz	what would you do?
+284	07/20/20	19:23:21		35246	230061	Grumpz	gimme options
+285	07/20/20	19:23:24		34837	47101	SlyAlligator	idfk
+286	07/20/20	19:23:32		35246	230061	Grumpz	like what even is [redacted]
+287	07/20/20	19:23:44		34837	47101	SlyAlligator	when i won ina  minecraft pvp with [redacted]
+288	07/20/20	19:23:50		34837	47101	SlyAlligator	[redacted]
+289	07/20/20	19:24:08		34837	47101	SlyAlligator	he did
+290	07/20/20	19:24:34		34837	47101	SlyAlligator	lagg
+291	07/20/20	19:24:34		34837	47101	SlyAlligator	fucking lag
+292	07/20/20	19:25:36		34837	47101	SlyAlligator	OH
+293	07/20/20	19:25:40		35246	230061	Grumpz	what
+294	07/20/20	19:26:05		34837	47101	SlyAlligator	mate what should I FUCKING FDO
+295	07/20/20	19:26:10		35246	230061	Grumpz	idfk
+296	07/20/20	19:26:17		34837	47101	SlyAlligator	ask me
+297	07/20/20	19:26:23		35246	230061	Grumpz	ask you what
+298	07/20/20	19:26:34		34837	47101	SlyAlligator	i lost THE PVP
+299	07/20/20	19:27:00		34837	47101	SlyAlligator	hold on lemme upload a 2-day old save file
+300	07/20/20	19:27:06		34837	47101	SlyAlligator	i fucked up pablo's house
+301	07/20/20	19:28:29		34837	47101	SlyAlligator	ngl this looks fucking hot though
+302	07/20/20	19:29:11		34837	47101	SlyAlligator	l;et me tell you something on msn
+303	07/20/20	19:29:38		34837	47101	SlyAlligator	read msn
+304	07/20/20	19:30:25		34837	47101	SlyAlligator	grumpz
+305	07/20/20	19:30:27		34837	47101	SlyAlligator	are
+306	07/20/20	19:30:27		34837	47101	SlyAlligator	you
+307	07/20/20	19:30:28		34837	47101	SlyAlligator	here
+308	07/20/20	19:32:42		35246	230061	Grumpz	was reading
+309	07/20/20	19:32:50		34837	47101	SlyAlligator	reading what
+310	07/20/20	19:32:54		35246	230061	Grumpz	msn
+311	07/20/20	19:37:06		35246	230061	Grumpz	go swim in the aids pool
+312	07/20/20	19:37:41		34837	47101	SlyAlligator	as
+313	07/20/20	19:37:48		35246	230061	Grumpz	lets swim
+314	07/20/20	19:38:03		35246	230061	Grumpz	get in here
+315	07/20/20	19:38:10		35246	230061	Grumpz	you lost
+316	07/20/20	19:38:12		34837	47101	SlyAlligator	the hous
+317	07/20/20	19:38:19		35246	230061	Grumpz	get in the fucking pool
+318	07/20/20	19:38:24		35246	230061	Grumpz	or the house
+319	07/20/20	19:38:30		34837	47101	SlyAlligator	stop or you'll have to do [redacted]
+320	07/20/20	19:38:33		34837	47101	SlyAlligator	:)
+321	07/20/20	19:38:38		35246	230061	Grumpz	that aint happening
+322	07/20/20	19:38:39		35246	230061	Grumpz	you lost
+323	07/20/20	19:38:41		35246	230061	Grumpz	i won
+324	07/20/20	19:38:46		34837	47101	SlyAlligator	stfu or you will do [redacted]
+325	07/20/20	19:39:23		35246	230061	Grumpz	you do realize you said you would do something
+326	07/20/20	19:39:29		35246	230061	Grumpz	well after this
+327	07/20/20	19:39:42		34837	47101	SlyAlligator	??!?
+328	07/20/20	19:40:09		35246	230061	Grumpz	??!/
+329	07/20/20	19:40:48		34837	47101	SlyAlligator	FUCK
+330	07/20/20	19:44:26		34837	47101	SlyAlligator	back
+331	07/20/20	19:47:39		34837	47101	SlyAlligator	what should i do
+332	07/20/20	19:47:56		34837	47101	SlyAlligator	hey
+333	07/20/20	19:47:58		34837	47101	SlyAlligator	it's the old chaztv
+334	07/20/20	19:47:59		35246	230061	Grumpz	does it have to be not in blockland
+335	07/20/20	19:49:16		34837	47101	SlyAlligator	test
+336	07/20/20	19:49:27		35246	230061	Grumpz	does it have to be not in blockland
+337	07/20/20	19:49:36		34837	47101	SlyAlligator	UJ DASuhzxcAJI8SDUHYDUNAJISAUHFH=A]
+338	07/20/20	19:49:36		34837	47101	SlyAlligator	.D
+339	07/20/20	19:49:43		35246	230061	Grumpz	or can it be in blockland
+340	07/20/20	19:49:47		34837	47101	SlyAlligator	no blkockland
+341	07/20/20	19:49:59		35246	230061	Grumpz	you know what
+342	07/20/20	19:50:04		35246	230061	Grumpz	ill let it slide for a bit
+343	07/20/20	19:50:10		34837	47101	SlyAlligator	why
+344	07/20/20	19:50:15		35246	230061	Grumpz	cant think of anything
+345	07/20/20	19:50:25		34837	47101	SlyAlligator	what if we swapped
+346	07/20/20	19:50:29		34837	47101	SlyAlligator	cause i was about to win btw
+347	07/20/20	19:50:35		35246	230061	Grumpz	i guess so
+348	07/20/20	19:50:41		34837	47101	SlyAlligator	>:)
+349	07/20/20	19:51:27		34837	47101	SlyAlligator	>:)
+350	07/20/20	19:51:31		34837	47101	SlyAlligator	scream at me
+351	07/20/20	19:52:07		34837	47101	SlyAlligator	do it
+352	07/20/20	19:53:07		34837	47101	SlyAlligator	gri,zp[t
+353	07/20/20	19:53:09		34837	47101	SlyAlligator	imescale 1
+354	07/20/20	19:53:14		34837	47101	SlyAlligator	GRUMPZ
+355	07/20/20	19:53:16		34837	47101	SlyAlligator	OYU HERE
+356	07/20/20	19:53:52		34837	47101	SlyAlligator	grumpz plaase
+358	07/20/20	19:59:29		34837	47101	SlyAlligator	hi
+359	07/20/20	19:59:32		69514	47602	-Luigi-	gaming
+360	07/20/20	19:59:38		34837	47101	SlyAlligator	gaming
+361	07/20/20	20:00:18		34837	47101	SlyAlligator	grumpz is questioning his sanity while browsing through merengue ask
+362	07/20/20	20:00:20		34837	47101	SlyAlligator	art*
+363	07/20/20	20:00:23		34837	47101	SlyAlligator	no explianation
+366	07/20/20	20:06:24		35246	230061	Grumpz	is that goo
+367	07/20/20	20:06:25		35246	230061	Grumpz	d
+368	07/20/20	20:06:27		69931	47101	SlyAlligator	grumpz DON'T
+369	07/20/20	20:06:30		69931	47101	SlyAlligator	FUCKING DONT SYA IT
+370	07/20/20	20:06:35		69931	47101	SlyAlligator	HERE'S SOMEONE ELSE ON THSI SERVER
+371	07/20/20	20:06:41		35246	230061	Grumpz	oh
+372	07/20/20	20:06:46		69931	47101	SlyAlligator	-luigi-
+373	07/20/20	20:13:00		69931	47101	SlyAlligator	fuck
+374	07/20/20	20:13:24		69931	47101	SlyAlligator	LOL
+375	07/20/20	20:14:11		69931	47101	SlyAlligator	kdnhasiudfihhdfuiasdfjkiogjdasfjfhafAHUGh
+378	07/20/20	20:14:45		70726	47602	-Luigi-	faggot [context: i kicked luigi for spamming]
+379	07/20/20	20:14:45		69931	47101	SlyAlligator	sesx
+381	07/20/20	20:14:48		69931	47101	SlyAlligator	DDIASUODHSUFDHUDSGH
+382	07/20/20	20:14:49		69931	47101	SlyAlligator	DGSHUIGHU9H
+384	07/20/20	20:15:16		35246	230061	Grumpz	what the fuck was that for
+385	07/20/20	20:15:20		69931	47101	SlyAlligator	the rocket spamming
+386	07/20/20	20:15:22		69931	47101	SlyAlligator	now i'm trying to FIX THIS
+387	07/20/20	20:23:40		69931	47101	SlyAlligator	FUCK!
+388	07/20/20	20:23:41		69931	47101	SlyAlligator	legendary
+389	07/20/20	20:23:58		69931	47101	SlyAlligator	yo grumpz
+390	07/20/20	20:24:00		69931	47101	SlyAlligator	fucktv is back
+391	07/20/20	20:24:13		35246	230061	Grumpz	FUCK!
+392	07/20/20	20:26:39		69931	47101	SlyAlligator	random shit
+393	07/20/20	20:27:32		69931	47101	SlyAlligator	guess who i asbkac
+394	07/20/20	20:27:35		35246	230061	Grumpz	im out the window
+395	07/20/20	20:27:38		35246	230061	Grumpz	?
+396	07/20/20	20:27:43		69931	47101	SlyAlligator	timescale 0.25
+397	07/20/20	20:34:06		69931	47101	SlyAlligator	étimescale 0.25
+398	07/20/20	20:36:46		35246	230061	Grumpz	FUCK!
+399	07/20/20	20:36:49		69931	47101	SlyAlligator	dont
+400	07/20/20	20:44:48		35246	230061	Grumpz	toh
+401	07/20/20	20:44:50		35246	230061	Grumpz	oh
