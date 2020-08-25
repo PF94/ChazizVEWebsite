@@ -60,3 +60,11 @@ h5 {
 .RandomFactoid img {
 	float:left;
 }
+
+.moduleEntry {
+	background-color: #DDD;
+	background-image: url(https://2003page.ga/assets/table_results_bg.gif);
+	background-position: left top;
+	background-repeat: repeat-x;
+/*	border-bottom: 1px dashed #999999; */
+}
