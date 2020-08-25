@@ -57,24 +57,3 @@ window.onload=initializemarquee
 
 
 }
-/*
-     FILE ARCHIVED ON 13:35:21 Jun 04, 2009 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:59:38 Aug 23, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  RedisCDXSource: 7.823
-  exclusion.robots.policy: 0.356
-  LoadShardBlock: 366.494 (3)
-  exclusion.robots: 0.37
-  CDXLines.iter: 31.751 (3)
-  captures_list: 412.369
-  PetaboxLoader3.datanode: 338.052 (4)
-  esindex: 0.015
-  load_resource: 560.891
-  PetaboxLoader3.resolve: 484.455 (2)
-*/
