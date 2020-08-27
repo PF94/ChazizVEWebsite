@@ -4,6 +4,17 @@ body {
   background:#ffffff url(assets/bg_gradient.jpg) repeat-x top;
 }
 
+/* area taken from roblonium */
+
+div.SystemAlert {
+    width: 906px;
+    margin: 0 auto 5px;
+    border: 1px solid gray;
+    text-align: center;
+    color: #FFF;
+    padding: 1px;
+}
+
 /* area taken from old mid-2009 roblox wayback machine rip */
 h2 {
 	letter-spacing:1px;
