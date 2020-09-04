@@ -17,6 +17,15 @@ div.SystemAlert {
 
 /* area taken from old mid-2009 roblox wayback machine rip */
 
+#Container {
+	margin:0 auto;
+	width:900px;
+}
+
+#MasterContainer {
+	width:100%;
+}
+
 h2 {
 	letter-spacing:1px;
 }
