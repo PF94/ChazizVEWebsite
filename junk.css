@@ -26,6 +26,69 @@ div.SystemAlert {
 	width:100%;
 }
 
+.FrontPagePanel {
+ float:left;
+ border:solid 1px black;
+ margin:5px;
+ background-color:White;
+}
+#SignInPane {
+ border:none;
+ margin-left:0;
+ width:152px;
+ height:250px;
+}
+
+#LoginView {
+ border:solid 1px Black;
+ width:150px;
+ height:250px;
+}
+#LoginView h5 {
+ background-color:#ccc;
+ border-bottom:solid 1px #000;
+ margin:0;
+}
+#LoginView #AlreadySignedIn {
+ background-color:#eee;
+}
+#LoginView .Label {
+ font-weight:bold;
+}
+#LoginView .Text {
+ width:133px;
+}
+#LoginView .AspNet-Login {
+ height:225px;
+ background-color:#eee;
+}
+#LoginView .AspNet-Login .AspNet-Login-InstructionPanel,
+#LoginView .AspNet-Login .AspNet-Login-HelpPanel,
+#LoginView .AspNet-Login .AspNet-Login-UserPanel,
+#LoginView .AspNet-Login .AspNet-Login-PasswordPanel,
+#LoginView .AspNet-Login .AspNet-Login-RememberMePanel {
+ padding:3px 5px 3px 5px;
+ text-align:left;
+}
+#LoginView .AspNet-Login .AspNet-Login-SubmitPanel,
+#LoginView .AspNet-Login .AspNet-Create-Account {
+ padding:10px 5px 5px 10px;
+ text-align:center;
+}
+#LoginView .AspNet-Login .AspNet-Login-PasswordRecoveryPanel {
+ padding:5px 5px 5px 5px;
+ text-align:center;
+}
+#LoginView .AspNet-Login .AspNet-Login-PasswordRecoveryPanel a {
+ color:#999;
+ font:normal 9px/normal Verdana,sans-serif;
+ padding:5px 5px 5px 5px;
+ text-align:center;
+}
+#LoginView .AspNet-Login .AspNet-Login-PasswordRecoveryPanel a:hover {
+ color:Blue;
+}
+
 h2 {
 	letter-spacing:1px;
 }
