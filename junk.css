@@ -26,6 +26,11 @@ div.SystemAlert {
 	width:100%;
 }
 
+#Movie {
+ width:424px;
+ height:250px;
+}
+
 .FrontPagePanel {
  float:left;
  border:solid 1px black;
